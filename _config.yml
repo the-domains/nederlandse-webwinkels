@@ -1,15 +1,35 @@
-layout_spectrum: 0.737774
-favicon: null
-name: Nederlandse-webwinkels
-purpose: []
-analytics:
-  twitter: null
-  google: null
-  facebook: null
+typography_spectrum: 0.9422678811144599
+color:
+  brandStrength: 0.01298136822639568
+  saturation: 0.49004954652464255
+  brandColors:
+    - '#73603D'
+    - '#BF8A49'
+    - '#F2CA80'
+    - '#5E5A59'
+    - '#0D0D0D'
+  lightness: 0.37729778732892383
+  rhythmicContrast: 0.09717861272652845
+github: true
 opengraph:
   image: null
   type: null
   appId: null
+layout_spectrum: 0.21179795807891405
+analytics:
+  twitter: null
+  google: null
+  facebook: null
+name: Nederlandse-Webwinkels
+cta:
+  version: null
+  bucket: null
+  domain: null
+navigation:
+  - name: test
+    id: cb11338f-ffc2-4a91-9ef9-7d48634cc038
+    type: content
+favicon: null
 collections:
   - index:
       navigable: true
@@ -22,19 +42,7 @@ collections:
       number: 10
     permalink:
       path: '/:title/'
-cta:
-  version: null
-  bucket: null
-  domain: null
-color:
-  brandStrength: 0.2768134821671993
-  saturation: 0.8843499331269413
-  brandColors:
-    - '#A690A4'
-    - '#B68F9D'
-    - '#C8ACAB'
-    - '#FBB9BF'
-    - '#E376B7'
-  lightness: 0.9517506724223495
-  rhythmicContrast: 0.8827987075783312
-typography_spectrum: 0.2652904156129807
+title: Nederlandse Webwinkels
+content: []
+description: ''
+purpose: []
