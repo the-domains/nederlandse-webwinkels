@@ -1,11 +1,11 @@
 ---
-datePublished: '2016-12-09T23:50:39.352Z'
+datePublished: '2016-12-09T23:50:46.677Z'
 sourcePath: _posts/2016-11-29-webwinkel-verzameling.md
 inFeed: true
 hasPage: true
 author: []
 via: {}
-dateModified: '2016-12-09T23:50:38.628Z'
+dateModified: '2016-12-09T23:50:46.077Z'
 title: ''
 publisher: {}
 description: Webwinkel verzameling
@@ -25,6 +25,8 @@ Bol
 [Centralpoint][0]
 
 Misco
+
+Wehkamp
 
 ---
 
