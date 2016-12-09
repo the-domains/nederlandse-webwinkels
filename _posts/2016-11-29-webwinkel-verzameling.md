@@ -1,11 +1,11 @@
 ---
-datePublished: '2016-12-09T23:48:37.759Z'
+datePublished: '2016-12-09T23:48:50.694Z'
 sourcePath: _posts/2016-11-29-webwinkel-verzameling.md
 inFeed: true
 hasPage: true
 author: []
 via: {}
-dateModified: '2016-12-09T23:48:37.038Z'
+dateModified: '2016-12-09T23:48:49.796Z'
 title: ''
 publisher: {}
 description: Webwinkel verzameling
@@ -20,7 +20,7 @@ Webwinkel verzameling
 Hier komen links webshops
 
 Alternate  
-[Centralpoint][0]https://www
+[Centralpoint][0]https://wwwhttps://www
 
 ---
 
