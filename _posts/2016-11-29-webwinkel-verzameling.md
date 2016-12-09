@@ -1,11 +1,11 @@
 ---
-datePublished: '2016-12-09T23:48:29.305Z'
+datePublished: '2016-12-09T23:48:37.759Z'
 sourcePath: _posts/2016-11-29-webwinkel-verzameling.md
 inFeed: true
 hasPage: true
 author: []
 via: {}
-dateModified: '2016-12-09T23:48:28.610Z'
+dateModified: '2016-12-09T23:48:37.038Z'
 title: ''
 publisher: {}
 description: Webwinkel verzameling
