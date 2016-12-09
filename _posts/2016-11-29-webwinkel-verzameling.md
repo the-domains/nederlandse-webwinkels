@@ -1,11 +1,11 @@
 ---
-datePublished: '2016-12-09T23:50:03.445Z'
+datePublished: '2016-12-09T23:50:08.229Z'
 sourcePath: _posts/2016-11-29-webwinkel-verzameling.md
 inFeed: true
 hasPage: true
 author: []
 via: {}
-dateModified: '2016-12-09T23:50:02.743Z'
+dateModified: '2016-12-09T23:50:07.814Z'
 title: ''
 publisher: {}
 description: Webwinkel verzameling
@@ -21,6 +21,7 @@ Hier komen links webshops
 
 Alternate
 
+Bol  
 [Centralpoint][0]
 
 Misco
