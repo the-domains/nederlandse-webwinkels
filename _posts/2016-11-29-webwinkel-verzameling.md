@@ -1,11 +1,11 @@
 ---
-datePublished: '2016-12-09T23:48:04.623Z'
+datePublished: '2016-12-09T23:48:29.305Z'
 sourcePath: _posts/2016-11-29-webwinkel-verzameling.md
 inFeed: true
 hasPage: true
 author: []
 via: {}
-dateModified: '2016-12-09T23:48:04.045Z'
+dateModified: '2016-12-09T23:48:28.610Z'
 title: ''
 publisher: {}
 description: Webwinkel verzameling
@@ -20,7 +20,7 @@ Webwinkel verzameling
 Hier komen links webshops
 
 Alternate  
-[Centralpoint][0]https://www.centralpoint.nl/?ref=26&network=tradetracker\#utm\_source=affiliate&utm\_campaign=15986&utm\_medium=tradetrackerhttps://www.centralpoint.nl/?ref=26&network=tradetracker\#utm\_source=affiliate&utm\_campaign=15986&utm\_medium=tradetracker
+[Centralpoint][0]https://www
 
 ---
 
