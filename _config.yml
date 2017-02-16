@@ -32,6 +32,9 @@ navigation:
   - name: Hardware
     id: 0048ec64-f655-4f82-a726-fd281454eb15
     type: content
+  - name: Hardware
+    id: cb11338f-ffc2-4a91-9ef9-7d48634cc038
+    type: content
 favicon: null
 collections:
   - index:
