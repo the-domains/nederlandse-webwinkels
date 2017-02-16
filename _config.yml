@@ -29,6 +29,9 @@ navigation:
   - name: Software
     id: 9fe5b614-baa9-4ca2-8abc-0727747b2bcb
     type: content
+  - name: Hardware
+    id: 0048ec64-f655-4f82-a726-fd281454eb15
+    type: content
 favicon: null
 collections:
   - index:
