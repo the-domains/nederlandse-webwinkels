@@ -26,9 +26,6 @@ cta:
   bucket: null
   domain: null
 navigation:
-  - name: test
-    id: cb11338f-ffc2-4a91-9ef9-7d48634cc038
-    type: content
   - name: Software
     id: 9fe5b614-baa9-4ca2-8abc-0727747b2bcb
     type: content
