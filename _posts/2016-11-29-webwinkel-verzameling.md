@@ -1,11 +1,11 @@
 ---
-datePublished: '2017-02-17T21:06:37.064Z'
+datePublished: '2017-02-17T21:11:03.488Z'
 sourcePath: _posts/2016-11-29-webwinkel-verzameling.md
 inFeed: true
 hasPage: true
 author: []
 via: {}
-dateModified: '2017-02-17T21:06:36.459Z'
+dateModified: '2017-02-17T21:11:02.955Z'
 title: Hardware.
 publisher: {}
 description: Alternate
@@ -19,23 +19,29 @@ _type: Article
 
 Alternate
 
-<iframe src="https://the-grid.github.io/ed-userhtml/?g=eJxVz8sOgkAMBdBfmXThksEX-KAYv4RUqAxxGExtMr_viI_ETXMXTc9tRcYJXxGc6v1gbYwxI68sgZSz4K2qPaniPt80q9W23DbL9bosls35u7Sg8X4UBKMkPStCc_EUbmCEPUKYrpP3U4S6GsbePKT9UTpkKtRxGu2NJQucqPYlzSdHnL05E77Vj_VvKzodPZg4dOoQNsUOjOOhd6lLkYO5TNJxKphi-gwBjK0rS_UTyfJQgw" height="60" style=""></iframe>
+<iframe src="https://the-grid.github.io/ed-userhtml/?g=eJxVz8sOgkAMBdBfmXThksEX-KAYv4RUqAxxGExtMr_viI_ETXMXTc9tRcYJXxGc6v1gbYwxI68sgZSz4K2qPaniPt80q9W23DbL9bosls35u7Sg8X4UBKMkPStCc_EUbmCEPUKYrpP3U4S6GsbePKT9UTpkKtRxGu2NJQucqPYlzSdHnL05E77Vj_VvKzodPZg4dOoQNsUOjOOhd6lLkYO5TNJxKphi-gwBjK0rS_UTyfJQgw" height="62" style=""></iframe>
 
 [Centralpoint][0]
 
-<iframe src="https://the-grid.github.io/ed-userhtml/?g=eJxdksFu2zAMhu95CkKHnjK7XZss2GwHQzFgu6w9DNgxoC3GViyTBiXHQ55-slcM2AABEqmf_H4KKr4-VMVr9XIlhWfiqOhHcRwz9kX-WhV5ut9sPntPAVTYygDTDN-efwARX2WyrgVh75igphApCRnSCkweHEM3uZDBl5QRbqknttCqRIKephstSlrUTUc6EozqLoucwWIEXKm1u6yamqLKNNeoBDPVs-Oe_BasI5hApAeWdhGGBEBsAe3VBSKNIMtwNnUnPVOT2DdMpe7S0zLIOxm9hOC4zeCFldC7EF1ydITvRFvoRDTb_Ewubu7C_z_SFhDTYIw4ZEWtFWwKhE7pXJouxvFjns_znDX_FuUpaHrS3LGlX9nYjccYy93j02l_uN992J0Oh8f3u9MdDuMnLQ1E1JZiaU61R-4NKPnSsJzFe5lNVbihhaDNX2R0WSJYesNkTDE_NgtgbTmUfzBrgOUKe2OtWyy7OHgDs7OxK83T_mCgI9d2ycL-3kAtain5Skf0KWcgTx8Fq99Zbcc2" height="244" style=""></iframe>
+<iframe src="https://the-grid.github.io/ed-userhtml/?g=eJw9zsEOgjAMBuBXWXrwuBkRJErxUciAyhbHtswm8_GdSDy1fw_9_k4Lk-iBYJjjVamcs5zIc9IuButZeqdKmJ6UlPUzvWU08c6MdXUemvZYX-qhbatTPRz0Gm8JQbBOCzHCMDrtnyASOQQfHsG5kKHv7LqIV5r-JFtZhJl2RnpidZ--wPZyxR-zBY0btlvbYDS8OhDZzmwQzk0LwpBdTKnQHEGMIc1UepVVu3IDofpO6f4DC9ZQRA" height="62" style=""></iframe>
+
+Over Centralpoint.nl
+
+Alles rondom uw ICT eenvoudig online bestellen en snel in huis. Een ongekend grote keuze en een scherpe prijs. En dat alles bij een betrouwbare webwinkel, die u ook nog eens graag adviseert over de perfecte zakelijke ICT-oplossing. Onrealistisch? Nee, hoor.
+
+Wij zijn Centralpoint.nl, aangenaam.
 
 Medion
 
-<iframe src="https://the-grid.github.io/ed-userhtml/?g=eJyljkEOgjAURK_S_IVLChQQlY9HMaUUSmgp-X7D9W3YeAA3M_NmM9Np4chOCI55v0vJJmPSo01iVkvZZlk-DaqqLi867I-A7U3lZX2CxkKpa1OcQHjaB0GwptkywmvweltBkPUIW5yi9_GAvlvCLN5kfqPLn6OMjoMHcSwjO4SqaUE4u8wunWhyEEOk0RJCitqnDoTsO6n7L5ChT0o" height="60" style=""></iframe>
+<iframe src="https://the-grid.github.io/ed-userhtml/?g=eJyljkEOgjAURK_S_IVLChQQlY9HMaUUSmgp-X7D9W3YeAA3M_NmM9Np4chOCI55v0vJJmPSo01iVkvZZlk-DaqqLi867I-A7U3lZX2CxkKpa1OcQHjaB0GwptkywmvweltBkPUIW5yi9_GAvlvCLN5kfqPLn6OMjoMHcSwjO4SqaUE4u8wunWhyEEOk0RJCitqnDoTsO6n7L5ChT0o" height="62" style=""></iframe>
 
 Misco
 
-<iframe src="https://the-grid.github.io/ed-userhtml/?g=eJyljk0OgjAQha_SzMIlbY0gKINHMaUU2thSMo7h-jZsPICb97f5Xm-EJzcjeObtJiXbislMroh9OapWx_Jhse709WTSdk-oldKNPh_NYNvWnToy4WEfBMGGFscIzzGa9QWCXERY85xjzDsMfUiLeJP9QcOfUEbPKYLYw8Qe4dK0ILwLiy8nGgVizDQ5QijRxLKBkEMvzfAFj4BPTA" height="60" style=""></iframe>
+<iframe src="https://the-grid.github.io/ed-userhtml/?g=eJyljk0OgjAQha_SzMIlbY0gKINHMaUU2thSMo7h-jZsPICb97f5Xm-EJzcjeObtJiXbislMroh9OapWx_Jhse709WTSdk-oldKNPh_NYNvWnToy4WEfBMGGFscIzzGa9QWCXERY85xjzDsMfUiLeJP9QcOfUEbPKYLYw8Qe4dK0ILwLiy8nGgVizDQ5QijRxLKBkEMvzfAFj4BPTA" height="62" style=""></iframe>
 
 Replacedirect
 
-<iframe src="https://the-grid.github.io/ed-userhtml/?g=eJw9js2OwjAMhF8l8oFjA5SfwtbltM9RmdQ0EWlaGUvZxycqKy4ez8jyNy0ZL_xA8KrL1dqccyW8RHI8BGGnVYp2oZHtS0n0909ZEkV7U8VDsz_2l_pYN02_q-vzaddvaFp-BMGU45EVob9HSk8wwhEhzY85xjlD14ZpNC9xX66GSoUGLsM9WarEam9uRaw_J_yAVkP4wf3TVlH0OkUwOQzqEc77BoznMPpS4rIFc59l4NKsrBRLBsZ2raXuDSExUhs" height="60" style=""></iframe>
+<iframe src="https://the-grid.github.io/ed-userhtml/?g=eJw9js2OwjAMhF8l8oFjA5SfwtbltM9RmdQ0EWlaGUvZxycqKy4ez8jyNy0ZL_xA8KrL1dqccyW8RHI8BGGnVYp2oZHtS0n0909ZEkV7U8VDsz_2l_pYN02_q-vzaddvaFp-BMGU45EVob9HSk8wwhEhzY85xjlD14ZpNC9xX66GSoUGLsM9WarEam9uRaw_J_yAVkP4wf3TVlH0OkUwOQzqEc77BoznMPpS4rIFc59l4NKsrBRLBsZ2raXuDSExUhs" height="62" style=""></iframe>
 
 Wehkamp
 
