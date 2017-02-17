@@ -1,11 +1,11 @@
 ---
-datePublished: '2017-02-17T21:12:40.802Z'
+datePublished: '2017-02-17T21:14:14.627Z'
 sourcePath: _posts/2016-11-29-webwinkel-verzameling.md
 inFeed: true
 hasPage: true
 author: []
 via: {}
-dateModified: '2017-02-17T21:12:40.285Z'
+dateModified: '2017-02-17T21:14:14.078Z'
 title: Hardware.
 publisher: {}
 description: Alternate
@@ -23,10 +23,9 @@ Alternate
 
 [Centralpoint][0]
 
-<iframe src="https://the-grid.github.io/ed-userhtml/?g=eJw9zsEOgjAMBuBXWXrwuBkRJErxUciAyhbHtswm8_GdSDy1fw_9_k4Lk-iBYJjjVamcs5zIc9IuButZeqdKmJ6UlPUzvWU08c6MdXUemvZYX-qhbatTPRz0Gm8JQbBOCzHCMDrtnyASOQQfHsG5kKHv7LqIV5r-JFtZhJl2RnpidZ--wPZyxR-zBY0btlvbYDS8OhDZzmwQzk0LwpBdTKnQHEGMIc1UepVVu3IDofpO6f4DC9ZQRA" height="65" style=""></iframe>
+<iframe src="https://the-grid.github.io/ed-userhtml/?g=eJw9zsEOgjAMBuBXWXrwuBkRJErxUciAyhbHtswm8_GdSDy1fw_9_k4Lk-iBYJjjVamcs5zIc9IuButZeqdKmJ6UlPUzvWU08c6MdXUemvZYX-qhbatTPRz0Gm8JQbBOCzHCMDrtnyASOQQfHsG5kKHv7LqIV5r-JFtZhJl2RnpidZ--wPZyxR-zBY0btlvbYDS8OhDZzmwQzk0LwpBdTKnQHEGMIc1UepVVu3IDofpO6f4DC9ZQRA" height="80" style=""></iframe>
 
-Over Centralpoint.nl
-
+Over Centralpoint.nl  
 Alles rondom uw ICT eenvoudig online bestellen en snel in huis. Een ongekend grote keuze en een scherpe prijs. En dat alles bij een betrouwbare webwinkel, die u ook nog eens graag adviseert over de perfecte zakelijke ICT-oplossing. Onrealistisch? Nee, hoor.
 
 Wij zijn Centralpoint.nl, aangenaam.
