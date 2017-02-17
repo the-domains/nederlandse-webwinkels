@@ -1,11 +1,11 @@
 ---
-datePublished: '2017-02-17T21:47:01.671Z'
+datePublished: '2017-02-17T21:48:09.286Z'
 sourcePath: _posts/2016-11-29-webwinkel-verzameling.md
 inFeed: true
 hasPage: true
 author: []
 via: {}
-dateModified: '2017-02-17T21:47:01.119Z'
+dateModified: '2017-02-17T21:48:08.769Z'
 title: Hardware.
 publisher: {}
 description: Alternate
@@ -16,8 +16,6 @@ _type: Article
 
 ---
 ### Hardware.
-
-    
 
 <iframe src="https://the-grid.github.io/ed-userhtml/?g=eJx9U99r20AMfvdfIRiDDRrSvQ3XGNKw_mDLS-kYfVTuZPvoWRfu5CzJ6P8-xU672WO5B5_QJ336TpKLRlpfZkVDaPVKsvdUZoJrT_ArAz1VYJlV2Dq_zwGjQ38BCTnNEkVXXfUx6xAtxZkJ3uMmUQ6v1gD_dFaaHD5dXr6_yl6yTOwFSHPiH3IV3ewgBe8svLP9GXKFdjJD72rOwVMlg3eD1jquc_i82Q2UMWdpZqZx3n6gLfHHV3o0z3UMHdujvKCF3uhfsmJ-enAxPzVgHey-zLKi70CpDIXEsicqpCmXod0g74u52n85WdDI1NmxxLdIveOEzZYLX0WyCW46EYrPLglpnP0TsDq2Gxas_Ulj5JZiOwix_6VfkioIOoqWotGxwSoYoUPX4pjrJiIbl0yAZYNcTyTQzplwts6XyEngDlWmHyc_BK9eWNG_0KJLoo87S3yf-vTHiMdZj_PvyBPDNTGTyBj6_vUs6zfs6kb54BqNaboEPxyTId3XaZOfQmocPCIztl10Y3CJjPa8_hXWeDg4drDwrtVp6DjhwXXsZEJ268JWyygatqpkgt4L-smo9TssqFrDyuoG93_yb-TCJcY" height="244" style=""></iframe>
 
