@@ -1,11 +1,11 @@
 ---
-datePublished: '2017-02-18T23:23:56.140Z'
+datePublished: '2017-02-18T23:26:09.050Z'
 sourcePath: _posts/2016-11-29-webwinkel-verzameling.md
 inFeed: true
 hasPage: true
 author: []
 via: {}
-dateModified: '2017-02-18T23:23:55.247Z'
+dateModified: '2017-02-18T23:26:08.450Z'
 title: ''
 publisher: {}
 description: Hardware
@@ -16,158 +16,12 @@ _type: Article
 
 ---
 [Hardware][0]
-
-    <link href="http://fonts.googleapis.com/css?family=Bitter&subset=latin" rel="stylesheet" type="text/css">
-    
-    <style>
-    
-    .droplinetabs{
-        position: relative;
-        background: white;
-        text-align: left; /* set to left, center, or right */
-        font: bold 16px 'Bitter', sans-serif; /* use google font */
-    }
-    
-    .droplinetabs *{
-      -webkit-box-sizing: border-box;
-    	-moz-box-sizing: border-box;
-    	box-sizing: border-box;
-    }
-    
-    .droplinetabs a{
-        text-decoration: none;
-        color: black;
-        display: inline-block;
-        font-weight: bold;
-        padding: 12px;
-        position: relative;
-    }
-    
-    .droplinetabs, .droplinetabs ul{
-        list-style: none;
-        margin: 0;
-        padding: 0;
-    	-webkit-perspective: 1000px;
-    	perspective: 1000px;
-        -webkit-perspective-origin: 50% 0%;
-    	perspective-origin: 50% 0%;
-    }
-    
-    /* Top Level LI style */
-    .droplinetabs > li{
-    }
-    
-    /* Top Level link style */
-    .droplinetabs > li > a{
-        border-radius: 10px 10px 0 0;
-        background: #BADBF2;
-        text-transform: uppercase;
-    }
-    
-    /* Top Level link style on hover and when active */
-    .droplinetabs li:hover > a {
-        background: #dae9f4;
-    }
-    
-    .droplinetabs li{
-        display: inline;
-    }
-    
-    /* drop line ULs style */
-    .droplinetabs ul{
-        background: #f8ecc9;
-        position: absolute;
-        left: -5000px;
-        width: 100%;
-        opacity: 0;
-        padding: 10px 0;
-        top: auto;
-        border: 1px solid #ddd;
-        box-shadow: 0 3px 5px #eee;
-        -webkit-transform: rotateX(-70deg);
-        transform: rotateX(-70deg);
-        backface-visibility: hidden;
-        -webkit-transform-origin: 50% 0;
-        transform-origin: 50% 0;
-        -webkit-transition: opacity .3s, -webkit-transform .5s, visibility 0s .3s, left 0s .3s;
-        transition: opacity .3s, transform .5s, visibility 0s .3s, left 0s .3s;
-    }
-    
-    /* Reveal sub menu on hover */
-    .droplinetabs li:hover > ul{
-        opacity: 1;
-        left: 0;
-        top: auto;
-        z-index: 1000;
-        -webkit-transform: rotateX(0deg);
-        transform: rotateX(0deg);
-        -webkit-transition: opacity .5s, -webkit-transform .5s;
-        transition: opacity .5s, transform .5s;
-    }
-    
-    .droplinetabs ul li{
-        display: inline;
-    }
-    
-    /* Sub Levels link style on hover and when active */
-    
-    .droplinetabs ul li:hover > a {
-        background: #f9d423;
-        border-radius: 10px;
-    }
-    
-    /* LIs with a sub UL style */
-    .droplinetabs li > a {
-        /* add padding to accomodate arrow inside LIs */
-        padding-right: 30px;
-    }
-    
-    /* LIs with NO sub UL style */
-    .droplinetabs li > a:only-child {
-        /* undo padding for non submenu LIs */
-        padding-right: 15px;
-    }
-    
-    
-    /* Arrow for LIs with sub ULs */
-    .droplinetabs li > a:after {
-        /* add arrow inside LIs */
-        content: "";
-        position: absolute;
-        height: 0;
-        width: 0;
-        border: 5px solid transparent;
-        border-top-color: black;
-        top: 45%;
-        right: 8px;
-    }
-    
-    
-    /* LIs with NO sub UL pseudo class */
-    .droplinetabs li > a:only-child:after {
-        /* undo arrow for non submenu LIs */
-        display: none;
-    }
-    
-    /* ####### responsive layout CSS ####### */
-    
-    @media (max-width: 720px) {
-    /* Top Level link style */
-        .droplinetabs > li > a{
-           border-radius: 0;
-           margin-top: 5px;
-        }
-        
-    }
-    
-    </style>
-    
-
 [Alternate][1]
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/d075fb90-ac60-40fc-a908-cc182c2e3b39.jpg)
 [Centralpoint][2]
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/0c3e26bc-337c-40ad-a2cf-6a11ada91ded.jpg)
 [Expert][3]
+![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/59c0b98e-4101-4e10-b1e3-93cc20fa8cdd.jpg)
 [Medion][4]
 [Misco][5]
 [Replacedirect][6]
@@ -180,7 +34,7 @@ _type: Article
 
 <button data-role="cta" style="">Bechtle</button>
 
-![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/59c0b98e-4101-4e10-b1e3-93cc20fa8cdd.jpg)
+
 
 [0]: https://thegrid.ai/nederlandse-webwinkels/software "Software"
 [1]: http://www.alternate.nl/tt/?tt=904_22575_133761_Alternate&r=
