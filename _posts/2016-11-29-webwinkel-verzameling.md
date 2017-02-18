@@ -1,11 +1,11 @@
 ---
-datePublished: '2017-02-18T22:24:03.401Z'
+datePublished: '2017-02-18T22:29:41.428Z'
 sourcePath: _posts/2016-11-29-webwinkel-verzameling.md
 inFeed: true
 hasPage: true
 author: []
 via: {}
-dateModified: '2017-02-18T22:24:02.798Z'
+dateModified: '2017-02-18T22:29:40.784Z'
 title: ''
 publisher: {}
 description: Hardware
@@ -16,8 +16,11 @@ _type: Article
 
 ---
 [Hardware][0]
-[Centralpoint][1]
-[Alternate][2]
+
+    http://pf.tradetracker.net/?aid=133761&encoding=utf-8&type=xml-v2&fid=250364&categoryType=2&additionalType=2
+
+[Alternate][1]
+[Centralpoint][2]
 [Expert][3]
 [Medion][4]
 [Misco][5]
@@ -30,8 +33,8 @@ _type: Article
 
 
 [0]: https://thegrid.ai/nederlandse-webwinkels/software "Software"
-[1]: http://www.centralpoint.nl/tracker/index.php?tt=534_680575_88325_&r=
-[2]: http://www.alternate.nl/tt/?tt=904_22575_133761_Alternate&r=
+[1]: http://www.alternate.nl/tt/?tt=904_22575_133761_Alternate&r=
+[2]: http://www.centralpoint.nl/tracker/index.php?tt=534_680575_88325_&r=
 [3]: http://tc.tradetracker.net/?c=5515&m=187261&a=133761&r=&u=
 [4]: http://tc.tradetracker.net/?c=3452&m=893025&a=133761&r=&u=
 [5]: http://tc.tradetracker.net/?c=5917&m=1001612&a=88590&r=&u=
