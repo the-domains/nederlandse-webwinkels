@@ -1,11 +1,11 @@
 ---
-datePublished: '2017-02-18T20:33:53.302Z'
+datePublished: '2017-02-18T20:37:53.037Z'
 sourcePath: _posts/2016-11-29-webwinkel-verzameling.md
 inFeed: true
 hasPage: true
 author: []
 via: {}
-dateModified: '2017-02-18T20:33:52.743Z'
+dateModified: '2017-02-18T20:37:52.454Z'
 title: Hardware.
 publisher: {}
 description: Alternate
@@ -21,14 +21,12 @@ Alternate
 
 <iframe src="https://the-grid.github.io/ed-userhtml/?g=eJxVz8sOgkAMBdBfmXThksEX-KAYv4RUqAxxGExtMr_viI_ETXMXTc9tRcYJXxGc6v1gbYwxI68sgZSz4K2qPaniPt80q9W23DbL9bosls35u7Sg8X4UBKMkPStCc_EUbmCEPUKYrpP3U4S6GsbePKT9UTpkKtRxGu2NJQucqPYlzSdHnL05E77Vj_VvKzodPZg4dOoQNsUOjOOhd6lLkYO5TNJxKphi-gwBjK0rS_UTyfJQgw" height="64" style=""></iframe>
 
+> Over Centralpoint.nl Alles rondom uw ICT eenvoudig online bestellen en snel in huis. Een ongekend grote keuze en een scherpe prijs. En dat alles bij een betrouwbare webwinkel, die u ook nog eens graag adviseert over de perfecte zakelijke ICT-oplossing. Onrealistisch? Nee, hoor.
+> Wij zijn Centralpoint.nl, aangenaam.
+
 [Centralpoint][0]
 
 <iframe src="https://the-grid.github.io/ed-userhtml/?g=eJw9zsEOgjAMBuBXWXrwuBkRJErxUciAyhbHtswm8_GdSDy1fw_9_k4Lk-iBYJjjVamcs5zIc9IuButZeqdKmJ6UlPUzvWU08c6MdXUemvZYX-qhbatTPRz0Gm8JQbBOCzHCMDrtnyASOQQfHsG5kKHv7LqIV5r-JFtZhJl2RnpidZ--wPZyxR-zBY0btlvbYDS8OhDZzmwQzk0LwpBdTKnQHEGMIc1UepVVu3IDofpO6f4DC9ZQRA" height="64" style=""></iframe>
-
-Over Centralpoint.nl  
-Alles rondom uw ICT eenvoudig online bestellen en snel in huis. Een ongekend grote keuze en een scherpe prijs. En dat alles bij een betrouwbare webwinkel, die u ook nog eens graag adviseert over de perfecte zakelijke ICT-oplossing. Onrealistisch? Nee, hoor.
-
-Wij zijn Centralpoint.nl, aangenaam.
 
 Medion
 
