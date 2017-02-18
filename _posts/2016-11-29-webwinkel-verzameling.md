@@ -1,20 +1,21 @@
 ---
-datePublished: '2017-02-18T21:54:35.632Z'
+datePublished: '2017-02-18T21:58:46.779Z'
 sourcePath: _posts/2016-11-29-webwinkel-verzameling.md
 inFeed: true
 hasPage: true
 author: []
 via: {}
-dateModified: '2017-02-18T21:54:34.982Z'
+dateModified: '2017-02-18T21:58:46.177Z'
 title: ''
 publisher: {}
-description: ''
+description: Hardware
 starred: false
 datePublishedOriginal: '2017-02-18T20:33:53.302Z'
 url: hardware/index.html
 _type: Article
 
 ---
+Hardware
 [Alternate][0]
 [Centralpoint][1]
 [Expert][2]
