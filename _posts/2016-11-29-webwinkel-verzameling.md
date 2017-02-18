@@ -1,11 +1,11 @@
 ---
-datePublished: '2017-02-18T23:03:36.245Z'
+datePublished: '2017-02-18T23:07:10.451Z'
 sourcePath: _posts/2016-11-29-webwinkel-verzameling.md
 inFeed: true
 hasPage: true
 author: []
 via: {}
-dateModified: '2017-02-18T23:03:35.526Z'
+dateModified: '2017-02-18T23:07:09.865Z'
 title: ''
 publisher: {}
 description: Hardware
@@ -24,9 +24,6 @@ _type: Article
 [Expert][3]
 [Medion][4]
 [Misco][5]
-
----
-
 [Replacedirect][6]
 
 <button data-role="cta" style="">Wehkamp</button>
