@@ -1,11 +1,11 @@
 ---
-datePublished: '2017-02-18T21:48:36.424Z'
+datePublished: '2017-02-18T21:51:28.281Z'
 sourcePath: _posts/2016-11-29-webwinkel-verzameling.md
 inFeed: true
 hasPage: true
 author: []
 via: {}
-dateModified: '2017-02-18T21:48:35.829Z'
+dateModified: '2017-02-18T21:51:27.689Z'
 title: Hardware.
 publisher: {}
 description: ''
