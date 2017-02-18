@@ -1,14 +1,14 @@
 ---
-datePublished: '2017-02-18T21:25:58.833Z'
+datePublished: '2017-02-18T21:34:33.704Z'
 sourcePath: _posts/2016-11-29-webwinkel-verzameling.md
 inFeed: true
 hasPage: true
 author: []
 via: {}
-dateModified: '2017-02-18T21:25:58.321Z'
+dateModified: '2017-02-18T21:34:33.196Z'
 title: Hardware.
 publisher: {}
-description: Alternate
+description: ''
 starred: false
 datePublishedOriginal: '2017-02-18T20:33:53.302Z'
 url: hardware/index.html
@@ -16,22 +16,14 @@ _type: Article
 
 ---
 ### Hardware.
-
-Alternate
 [Alternate][0]
-
-> Over Centralpoint.nl. Alles rondom uw ICT eenvoudig online bestellen en snel in huis. Een ongekend grote keuze en een scherpe prijs. En dat alles bij een betrouwbare webwinkel, die u ook nog eens graag adviseert over de perfecte zakelijke ICT-oplossing. Onrealistisch? Nee, hoor.
-> Wij zijn Centralpoint.nl, aangenaam.
-
 [Centralpoint][1]
-
-Expert
 [Expert][2]
 [Medion][3]
 [Misco][4]
 [Replacedirect][5]
 
-Wehkamp
+<button data-role="cta" style="">Wehkamp</button>
 
 ---
 
