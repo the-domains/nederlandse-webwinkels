@@ -4,9 +4,145 @@
         <description><![CDATA[Nederlandse Webwinkels]]></description>
         <link>https://thegrid.ai/nederlandse-webwinkels/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Sat, 18 Feb 2017 18:52:14 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 18 Feb 2017 18:52:19 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/nederlandse-webwinkels/rss.xml" rel="self" type="application/rss+xml"/>
-        <pubDate>Sat, 18 Feb 2017 18:52:13 GMT</pubDate>
+        <pubDate>Sat, 18 Feb 2017 18:52:18 GMT</pubDate>
+        <item>
+            <title><![CDATA[No title]]></title>
+            <description><![CDATA[<p>Software.</p>,<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/9cc8f4fa-8328-4c62-90b5-9e110cbc7f90.png">,<pre><code>&lt;!DOCTYPE html&gt;
+&lt;html&gt;
+&lt;Head&gt;
+&lt;style type=&quot;text/css&quot;&gt;
+
+#jsalarmclock{
+font-family: Tahoma;
+font-weight: bold;
+font-size: 12px;
+}
+
+#jsalarmclock div{
+margin-bottom: 0.8em;
+}
+
+#jsalarmclock div.leftcolumn{
+float: left;
+width: 150px;
+font-size: 13px;
+background-color: lightyellow;
+clear: left;
+}
+
+#jsalarmclock span{
+margin-right: 5px;
+}
+
+&lt;/style&gt;
+
+&lt;script type=&quot;text/javascript&quot;&gt;
+
+/***********************************************
+
+* JavaScript Alarm Clock- by JavaScript Kit (www.javascriptkit.com)
+* This notice must stay intact for usage
+* Visit JavaScript Kit at http://www.javascriptkit.com/ for this script and 100s more
+
+***********************************************/
+
+var jsalarm={
+&#x9;padfield:function(f){
+&#x9;&#x9;return (f&lt;10)? &quot;0&quot;+f : f
+&#x9;},
+&#x9;showcurrenttime:function(){
+&#x9;&#x9;var dateobj=new Date()
+&#x9;&#x9;var ct=this.padfield(dateobj.getHours())+&quot;:&quot;+this.padfield(dateobj.getMinutes())+&quot;:&quot;+this.padfield(dateobj.getSeconds())
+&#x9;&#x9;this.ctref.innerHTML=ct
+&#x9;&#x9;this.ctref.setAttribute(&quot;title&quot;, ct)
+&#x9;&#x9;if (typeof this.hourwake!=&quot;undefined&quot;){ //if alarm is set
+&#x9;&#x9;&#x9;if (this.ctref.title==(this.hourwake+&quot;:&quot;+this.minutewake+&quot;:&quot;+this.secondwake)){
+&#x9;&#x9;&#x9;&#x9;clearInterval(jsalarm.timer)
+&#x9;&#x9;&#x9;&#x9;window.location=document.getElementById(&quot;musicloc&quot;).value
+&#x9;&#x9;&#x9;}
+&#x9;&#x9;}
+&#x9;},
+&#x9;init:function(){
+&#x9;&#x9;var dateobj=new Date()
+&#x9;&#x9;this.ctref=document.getElementById(&quot;jsalarm_ct&quot;)
+&#x9;&#x9;this.submitref=document.getElementById(&quot;submitbutton&quot;)
+&#x9;&#x9;this.submitref.onclick=function(){
+&#x9;&#x9;&#x9;jsalarm.setalarm()
+&#x9;&#x9;&#x9;this.value=&quot;Alarm Set&quot;
+&#x9;&#x9;&#x9;this.disabled=true
+&#x9;&#x9;&#x9;return false
+&#x9;&#x9;}
+&#x9;&#x9;this.resetref=document.getElementById(&quot;resetbutton&quot;)
+&#x9;&#x9;this.resetref.onclick=function(){
+&#x9;&#x9;jsalarm.submitref.disabled=false
+&#x9;&#x9;jsalarm.hourwake=undefined
+&#x9;&#x9;jsalarm.hourselect.disabled=false
+&#x9;&#x9;jsalarm.minuteselect.disabled=false
+&#x9;&#x9;jsalarm.secondselect.disabled=false
+&#x9;&#x9;return false
+&#x9;&#x9;}
+&#x9;&#x9;var selections=document.getElementsByTagName(&quot;select&quot;)
+&#x9;&#x9;this.hourselect=selections[0]
+&#x9;&#x9;this.minuteselect=selections[1]
+&#x9;&#x9;this.secondselect=selections[2]
+&#x9;&#x9;for (var i=0; i&lt;60; i++){
+&#x9;&#x9;&#x9;if (i&lt;24) //If still within range of hours field: 0-23
+&#x9;&#x9;&#x9;this.hourselect[i]=new Option(this.padfield(i), this.padfield(i), false, dateobj.getHours()==i)
+&#x9;&#x9;&#x9;this.minuteselect[i]=new Option(this.padfield(i), this.padfield(i), false, dateobj.getMinutes()==i)
+&#x9;&#x9;&#x9;this.secondselect[i]=new Option(this.padfield(i), this.padfield(i), false, dateobj.getSeconds()==i)
+
+&#x9;&#x9;}
+&#x9;&#x9;jsalarm.showcurrenttime()
+&#x9;&#x9;jsalarm.timer=setInterval(function(){jsalarm.showcurrenttime()}, 1000)
+&#x9;},
+&#x9;setalarm:function(){
+&#x9;&#x9;this.hourwake=this.hourselect.options[this.hourselect.selectedIndex].value
+&#x9;&#x9;this.minutewake=this.minuteselect.options[this.minuteselect.selectedIndex].value
+&#x9;&#x9;this.secondwake=this.secondselect.options[this.secondselect.selectedIndex].value
+&#x9;&#x9;this.hourselect.disabled=true
+&#x9;&#x9;this.minuteselect.disabled=true
+&#x9;&#x9;this.secondselect.disabled=true
+&#x9;}
+}
+
+&lt;/script&gt;
+&lt;/Head&gt;
+&lt;body&gt;
+&lt;style type=&quot;text/css&quot;&gt;
+
+#jsalarmclock{
+font-family: Tahoma;
+font-weight: bold;
+font-size: 12px;
+}
+
+#jsalarmclock div{
+margin-bottom: 0.8em;
+}
+
+&lt;form action=&quot;&quot; method=&quot;&quot;&gt;
+&lt;div id=&quot;jsalarmclock&quot;&gt;
+&lt;div&gt;&lt;div class=&quot;leftcolumn&quot;&gt;Current Time:&lt;/div&gt; &lt;span id=&quot;jsalarm_ct&quot; style=&quot;letter-spacing: 2px&quot;&gt;&lt;/span&gt;&lt;/div&gt;
+&lt;div&gt;&lt;div class=&quot;leftcolumn&quot;&gt;Set Alarm:&lt;/div&gt; &lt;span&gt;&lt;select&gt;&lt;/select&gt; Hour&lt;/span&gt; &lt;span&gt;&lt;select&gt;&lt;/select&gt; Minutes&lt;/span&gt; &lt;span&gt;&lt;select&gt;&lt;/select&gt; Seconds&lt;/span&gt;&lt;/div&gt;
+&lt;div&gt;&lt;div class=&quot;leftcolumn&quot;&gt;Set Alarm Action:&lt;/div&gt; &lt;input type=&quot;text&quot; id=&quot;musicloc&quot; size=&quot;55&quot; value=&quot;https://www.youtube.com/watch?v=FcnzRWJaIPw&quot; /&gt; &lt;span style=&quot;font: normal 11px Tahoma&quot;&gt;*Location of page to launch&lt;/span&gt;&lt;/div&gt;
+&lt;input type=&quot;submit&quot; value=&quot;Set Alarm!&quot; id=&quot;submitbutton&quot; /&gt; &lt;input type=&quot;reset&quot; value=&quot;reset&quot; id=&quot;resetbutton&quot; /&gt;
+&lt;/div&gt;
+&lt;/form&gt;
+
+
+&lt;script type=&quot;text/javascript&quot;&gt;
+
+jsalarm.init()
+
+&lt;/script&gt;
+&lt;/body&gt;
+&lt;/html&gt;</code></pre>]]></description>
+            <link>https://thegrid.ai/nederlandse-webwinkels/software/index.html</link>
+            <guid isPermaLink="false">9fe5b614-baa9-4ca2-8abc-0727747b2bcb</guid>
+            <pubDate>Sat, 18 Feb 2017 18:52:18 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Hardware.]]></title>
             <description><![CDATA[<h3>Hardware.</h3>,<p>Alternate</p>,<iframe src="https://the-grid.github.io/ed-userhtml/?g=eJxVz8sOgkAMBdBfmXThksEX-KAYv4RUqAxxGExtMr_viI_ETXMXTc9tRcYJXxGc6v1gbYwxI68sgZSz4K2qPaniPt80q9W23DbL9bosls35u7Sg8X4UBKMkPStCc_EUbmCEPUKYrpP3U4S6GsbePKT9UTpkKtRxGu2NJQucqPYlzSdHnL05E77Vj_VvKzodPZg4dOoQNsUOjOOhd6lLkYO5TNJxKphi-gwBjK0rS_UTyfJQgw" height="64"></iframe>,<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/b58776c0-e5ca-4d4c-8b4b-d22daad1ba01.jpg" title="Alternate" alt="test1">,<p><a href="https://www.centralpoint.nl/?ref=26&amp;network=tradetracker#utm_source=affiliate&amp;utm_campaign=15986&amp;utm_medium=tradetracker" title="Centralpoint">Centralpoint</a></p>,<iframe src="https://the-grid.github.io/ed-userhtml/?g=eJw9zsEOgjAMBuBXWXrwuBkRJErxUciAyhbHtswm8_GdSDy1fw_9_k4Lk-iBYJjjVamcs5zIc9IuButZeqdKmJ6UlPUzvWU08c6MdXUemvZYX-qhbatTPRz0Gm8JQbBOCzHCMDrtnyASOQQfHsG5kKHv7LqIV5r-JFtZhJl2RnpidZ--wPZyxR-zBY0btlvbYDS8OhDZzmwQzk0LwpBdTKnQHEGMIc1UepVVu3IDofpO6f4DC9ZQRA" height="64"></iframe>,<p>Over Centralpoint.nl<br>Alles rondom uw ICT eenvoudig online bestellen en snel in huis. Een ongekend grote keuze en een scherpe prijs. En dat alles bij een betrouwbare webwinkel, die u ook nog eens graag adviseert over de perfecte zakelijke ICT-oplossing. Onrealistisch? Nee, hoor.</p>,<p>Wij zijn Centralpoint.nl, aangenaam.</p>,<p>Medion</p>,<iframe src="https://the-grid.github.io/ed-userhtml/?g=eJyljkEOgjAURK_S_IVLChQQlY9HMaUUSmgp-X7D9W3YeAA3M_NmM9Np4chOCI55v0vJJmPSo01iVkvZZlk-DaqqLi867I-A7U3lZX2CxkKpa1OcQHjaB0GwptkywmvweltBkPUIW5yi9_GAvlvCLN5kfqPLn6OMjoMHcSwjO4SqzUE4u8wunWhSHiKNlhBS1D51IGTfSd1_AY-5T0Q" height="64"></iframe>,<p>Misco</p>,<iframe src="https://the-grid.github.io/ed-userhtml/?g=eJyljk0OgjAQha_SzMIlbY0gKINHMaUU2thSMo7h-jZsPICb97f5Xm-EJzcjeObtJiXbislMroh9OapWx_Jhse709WTSdk-oldKNPh_NYNvWnToy4WEfBMGGFscIzzGa9QWCXERY85xjzDsMfUiLeJP9QcOfUEbPKYLYw8Qe4dK0ILwLiy8n6pLHTJMjBAXCxLKBkEMvzfAFkDxPUw" height="64"></iframe>,<p>Replacedirect</p>,<iframe src="https://the-grid.github.io/ed-userhtml/?g=eJw9jsGOwjAMRH8l8oFjs1Dolt26nPiOyqSmiUjTylgKn09UVnvxeEaW33RkvPAdwauuP9bmnCvhNZLjMQg7rVK0K01sn0qi15eyJIr2oorH9nAazvWpbtthX9ffzX7Y0bz-CoIpxxMrwnCLlB5ghCNCWu5LjEuGvgvzZJ7i_rkaKhUauQz3YKkSq724DbH9nPED2gzhB_dH20TR6xzB5DCqRzg2LRjPYfKlRPMF5rbIyKVZWSmWDIztO0v9GyECUhk" height="64"></iframe>,<p>Wehkamp</p>]]></description>
