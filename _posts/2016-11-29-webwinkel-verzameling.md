@@ -1,11 +1,11 @@
 ---
-datePublished: '2017-02-18T23:18:45.493Z'
+datePublished: '2017-02-18T23:20:58.148Z'
 sourcePath: _posts/2016-11-29-webwinkel-verzameling.md
 inFeed: true
 hasPage: true
 author: []
 via: {}
-dateModified: '2017-02-18T23:18:44.900Z'
+dateModified: '2017-02-18T23:20:57.382Z'
 title: ''
 publisher: {}
 description: Hardware
@@ -16,8 +16,6 @@ _type: Article
 
 ---
 [Hardware][0]
-
-    http://pf.tradetracker.net/?aid=133761&encoding=utf-8&type=json&fid=250364&categoryType=2&additionalType=2
 
     <link href="http://fonts.googleapis.com/css?family=Bitter&subset=latin" rel="stylesheet" type="text/css">
     
