@@ -1,11 +1,11 @@
 ---
-datePublished: '2017-02-18T21:21:55.208Z'
+datePublished: '2017-02-18T21:25:51.436Z'
 sourcePath: _posts/2016-11-29-webwinkel-verzameling.md
 inFeed: true
 hasPage: true
 author: []
 via: {}
-dateModified: '2017-02-18T21:21:54.432Z'
+dateModified: '2017-02-18T21:25:50.937Z'
 title: Hardware.
 publisher: {}
 description: Alternate
@@ -18,32 +18,20 @@ _type: Article
 ### Hardware.
 
 Alternate
-
-<iframe src="https://the-grid.github.io/ed-userhtml/?g=eJxVz8sOgkAMBdBfmXThksEX-KAYv4RUqAxxGExtMr_viI_ETXMXTc9tRcYJXxGc6v1gbYwxI68sgZSz4K2qPaniPt80q9W23DbL9bosls35u7Sg8X4UBKMkPStCc_EUbmCEPUKYrpP3U4S6GsbePKT9UTpkKtRxGu2NJQucqPYlzSdHnL05E77Vj_VvKzodPZg4dOoQNsUOjOOhd6lLkYO5TNJxKphi-gwBjK0rS_UTyfJQgw" height="64" style=""></iframe>
-
-[Centralpoint][0]
+[Alternate][0]
 
 > Over Centralpoint.nl. Alles rondom uw ICT eenvoudig online bestellen en snel in huis. Een ongekend grote keuze en een scherpe prijs. En dat alles bij een betrouwbare webwinkel, die u ook nog eens graag adviseert over de perfecte zakelijke ICT-oplossing. Onrealistisch? Nee, hoor.
 > Wij zijn Centralpoint.nl, aangenaam.
-
-<iframe src="https://the-grid.github.io/ed-userhtml/?g=eJw9zsEOgjAMBuBXWXrwuBkRJErxUciAyhbHtswm8_GdSDy1fw_9_k4Lk-iBYJjjVamcs5zIc9IuButZeqdKmJ6UlPUzvWU08c6MdXUemvZYX-qhbatTPRz0Gm8JQbBOCzHCMDrtnyASOQQfHsG5kKHv7LqIV5r-JFtZhJl2RnpidZ--wPZyxR-zBY0btlvbYDS8OhDZzmwQzk0LwpBdTKnQHEGMIc1UepVVu3IDofpO6f4DC9ZQRA" height="64" style=""></iframe>
 
 [Centralpoint][1]
 
 Expert
 [Expert][2]
-
-Medion
-
-<iframe src="https://the-grid.github.io/ed-userhtml/?g=eJyljUsSgjAQRK-SmoVLAkTwx-BRrBgGQpEQahyL64tsPICb7n69eY1VnqlH8CLLVWtxmbDtaAs3EWczib47NMeqPNi43CKeLyYvqx0sFsac6mIHxr3eCEosDyQIj2ew8wSKKSDMqU8hpBXaZoyDerH7Scc_pYJeYgC1jp14hDrPQXkaBy9fAPVM3BEjbNOG7QOl20bb9gOOy08-" height="64" style=""></iframe>
-
-Misco
-
-<iframe src="https://the-grid.github.io/ed-userhtml/?g=eJyljk0OgjAQha_SzMIlbY0gKINHMaUU2thSMo7h-jZsPICb97f5Xm-EJzcjeObtJiXbislMroh9OapWx_Jhse709WTSdk-oldKNPh_NYNvWnToy4WEfBMGGFscIzzGa9QWCXERY85xjzDsMfUiLeJP9QcOfUEbPKYLYw8Qe4dK0ILwLiy8n6pLHTJMjBAXCxLKBkEMvzfAFkDxPUw" height="64" style=""></iframe>
+[Medion][3]
+[Misco][4]
 
 Replacedirect
-
-<iframe src="https://the-grid.github.io/ed-userhtml/?g=eJw9jsGOwjAMRH8l8oFjs1Dolt26nPiOyqSmiUjTylgKn09UVnvxeEaW33RkvPAdwauuP9bmnCvhNZLjMQg7rVK0K01sn0qi15eyJIr2oorH9nAazvWpbtthX9ffzX7Y0bz-CoIpxxMrwnCLlB5ghCNCWu5LjEuGvgvzZJ7i_rkaKhUauQz3YKkSq724DbH9nPED2gzhB_dH20TR6xzB5DCqRzg2LRjPYfKlRPMF5rbIyKVZWSmWDIztO0v9GyECUhk" height="64" style=""></iframe>
+[Replacedirect][5]
 
 Wehkamp
 
@@ -51,6 +39,9 @@ Wehkamp
 
 
 
-[0]: https://www.centralpoint.nl/?ref=26&network=tradetracker#utm_source=affiliate&utm_campaign=15986&utm_medium=tradetracker "Centralpoint"
+[0]: http://www.alternate.nl/tt/?tt=904_22575_133761_Alternate&r=
 [1]: http://www.centralpoint.nl/tracker/index.php?tt=534_680575_88325_&r=
 [2]: http://tc.tradetracker.net/?c=5515&m=187261&a=133761&r=&u=
+[3]: http://tc.tradetracker.net/?c=3452&m=893025&a=133761&r=&u=
+[4]: http://tc.tradetracker.net/?c=5917&m=1001612&a=88590&r=&u=
+[5]: http://www.replacedirect.nl/page/startExternal/?tt=4825_935388_133761_&r=
