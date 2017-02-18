@@ -1,11 +1,11 @@
 ---
-datePublished: '2017-02-18T23:23:57.429Z'
+datePublished: '2017-02-18T23:23:54.352Z'
 sourcePath: _posts/2016-11-29-webwinkel-verzameling.md
 inFeed: true
 hasPage: true
 author: []
 via: {}
-dateModified: '2017-02-18T23:23:56.746Z'
+dateModified: '2017-02-18T23:23:53.652Z'
 title: ''
 publisher: {}
 description: Hardware
@@ -168,7 +168,6 @@ _type: Article
 [Centralpoint][2]
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/0c3e26bc-337c-40ad-a2cf-6a11ada91ded.jpg)
 [Expert][3]
-![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/59c0b98e-4101-4e10-b1e3-93cc20fa8cdd.jpg)
 [Medion][4]
 [Misco][5]
 [Replacedirect][6]
@@ -181,7 +180,7 @@ _type: Article
 
 <button data-role="cta" style="">Bechtle</button>
 
-
+![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/59c0b98e-4101-4e10-b1e3-93cc20fa8cdd.jpg)
 
 [0]: https://thegrid.ai/nederlandse-webwinkels/software "Software"
 [1]: http://www.alternate.nl/tt/?tt=904_22575_133761_Alternate&r=
