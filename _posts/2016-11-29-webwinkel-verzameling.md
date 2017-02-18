@@ -1,11 +1,11 @@
 ---
-datePublished: '2017-02-18T21:13:04.703Z'
+datePublished: '2017-02-18T21:18:31.492Z'
 sourcePath: _posts/2016-11-29-webwinkel-verzameling.md
 inFeed: true
 hasPage: true
 author: []
 via: {}
-dateModified: '2017-02-18T21:13:04.115Z'
+dateModified: '2017-02-18T21:18:31.012Z'
 title: Hardware.
 publisher: {}
 description: Alternate
@@ -29,8 +29,7 @@ Alternate
 <iframe src="https://the-grid.github.io/ed-userhtml/?g=eJw9zsEOgjAMBuBXWXrwuBkRJErxUciAyhbHtswm8_GdSDy1fw_9_k4Lk-iBYJjjVamcs5zIc9IuButZeqdKmJ6UlPUzvWU08c6MdXUemvZYX-qhbatTPRz0Gm8JQbBOCzHCMDrtnyASOQQfHsG5kKHv7LqIV5r-JFtZhJl2RnpidZ--wPZyxR-zBY0btlvbYDS8OhDZzmwQzk0LwpBdTKnQHEGMIc1UepVVu3IDofpO6f4DC9ZQRA" height="64" style=""></iframe>
 
 Expert
-
-    <a href="http://tc.tradetracker.net/?c=5515&amp;m=187261&amp;a=133761&amp;r=&amp;u=" target="_blank" rel="nofollow">Expert folder</a>
+[Expert][1]
 
 Medion
 
@@ -51,3 +50,4 @@ Wehkamp
 
 
 [0]: https://www.centralpoint.nl/?ref=26&network=tradetracker#utm_source=affiliate&utm_campaign=15986&utm_medium=tradetracker "Centralpoint"
+[1]: http://tc.tradetracker.net/?c=5515&m=187261&a=133761&r=&u=
