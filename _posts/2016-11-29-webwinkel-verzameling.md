@@ -1,14 +1,14 @@
 ---
-datePublished: '2017-02-19T00:41:45.279Z'
-sourcePath: _posts/2016-11-29-webwinkel-verzameling.md
+datePublished: '2017-02-19T13:18:13.804Z'
+description: Hardware
+via: {}
 inFeed: true
+publisher: {}
+dateModified: '2017-02-19T13:18:13.355Z'
+sourcePath: _posts/2016-11-29-webwinkel-verzameling.md
+title: ''
 hasPage: true
 author: []
-via: {}
-dateModified: '2017-02-19T00:41:44.617Z'
-title: ''
-publisher: {}
-description: Hardware
 starred: false
 datePublishedOriginal: '2017-02-18T20:33:53.302Z'
 url: hardware/index.html
@@ -19,26 +19,26 @@ _type: Article
 
 [Hardware][0]
 [Alternate][1]
+
+<button data-role="cta" style="">Bechtle</button>
+
 [Centralpoint][2]
-[Expert][3]
-[Medion][4]
-[Misco][5]
-[Replacedirect][6]
 
-<button data-role="cta" style="">Wehkamp</button>
+<button data-role="cta" style="">Expert</button>
 
-<button data-role="cta" style="">Open</button>
+[Medion][3]
+[Misco][4]
+[Replacedirect][5]
 
 <button data-role="cta" style="">Otto</button>
 
-<button data-role="cta" style="">Bechtle</button>
+<button data-role="cta" style="">Wehkamp</button>
 
 
 
 [0]: https://thegrid.ai/nederlandse-webwinkels/software "Software"
-[1]: http://www.alternate.nl/tt/?tt=904_22575_133761_Alternate&r=
-[2]: http://www.centralpoint.nl/tracker/index.php?tt=534_680575_88325_&r=
-[3]: http://tc.tradetracker.net/?c=5515&m=187261&a=133761&r=&u=
-[4]: http://tc.tradetracker.net/?c=3452&m=893025&a=133761&r=&u=
-[5]: http://tc.tradetracker.net/?c=5917&m=1001612&a=88590&r=&u=
-[6]: http://www.replacedirect.nl/page/startExternal/?tt=4825_935388_133761_&r=
+[1]: http://www.alternate.nl/tt/?tt=904_12_133761_&r=%2F
+[2]: https://www.centralpoint.nl/
+[3]: http://tc.tradetracker.net/?c=3452&m=12&a=133761
+[4]: https://www.misco.nl/
+[5]: http://www.replacedirect.nl/page/startExternal/?tt=4825_12_133761_&r=%2F
