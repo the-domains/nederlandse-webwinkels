@@ -1,11 +1,11 @@
 ---
-datePublished: '2017-02-19T00:13:45.353Z'
+datePublished: '2017-02-19T00:15:58.114Z'
 sourcePath: _posts/2016-11-29-webwinkel-verzameling.md
 inFeed: true
 hasPage: true
 author: []
 via: {}
-dateModified: '2017-02-19T00:13:44.729Z'
+dateModified: '2017-02-19T00:15:57.471Z'
 title: ''
 publisher: {}
 description: Hardware
@@ -18,11 +18,12 @@ _type: Article
 [Hardware][0]
 [Alternate][1]
 [Centralpoint][2]
-![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/f4685596-6385-4eca-be0d-31b7db207bae.jpg)
+![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/b6d820cf-a548-4b4f-ad45-c2d63a8846d0.jpg)
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/0c3e26bc-337c-40ad-a2cf-6a11ada91ded.jpg)
 [Expert][3]
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/59c0b98e-4101-4e10-b1e3-93cc20fa8cdd.jpg)
 [Medion][4]
+![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/e968fe40-a373-4f82-82cf-d3939bb4c00d.jpg)
 [Misco][5]
 [Replacedirect][6]
 
