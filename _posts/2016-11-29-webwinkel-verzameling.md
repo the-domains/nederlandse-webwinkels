@@ -1,10 +1,10 @@
 ---
-datePublished: '2017-02-21T22:21:05.161Z'
+datePublished: '2017-02-21T22:22:35.390Z'
 description: Hardware
 via: {}
 inFeed: true
 publisher: {}
-dateModified: '2017-02-21T22:21:04.006Z'
+dateModified: '2017-02-21T22:22:34.853Z'
 sourcePath: _posts/2016-11-29-webwinkel-verzameling.md
 title: ''
 hasPage: true
@@ -15,12 +15,13 @@ url: hardware/index.html
 _type: Article
 
 ---
-<iframe src="https://the-grid.github.io/ed-userhtml/?g=eJw9z00SgjAMBeCrdLJwSRUQ_wgehYkQKUMpTMxMr29Fx03yVvleajJO-IngVNertTHGjLyyBFLOgreq9q6Kl33Z5vnxfGkPRXGqDu2O5vUmCEZJBlaE9uEpTGCEPUJYnov3S4SmHufBvKT7CzpmKtRzGt3EkgVOQvcBtpMzbsyWCb_Yz9qWotPZg4ljrw4hL0owjsfBpQrVHsxjkZ5TrxTTHwhgbFNbat6Y3UlE" height="62" style=""></iframe>
-
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/dfe695bd-aa9b-42cf-ab7a-6a386efb1f3a.jpg)
 
 [Hardware][0]
 [Alternate][1]
+
+<iframe src="https://the-grid.github.io/ed-userhtml/?g=eJw9z00SgjAMBeCrdLJwSRUQ_wgehYkQKUMpTMxMr29Fx03yVvleajJO-IngVNertTHGjLyyBFLOgreq9q6Kl33Z5vnxfGkPRXGqDu2O5vUmCEZJBlaE9uEpTGCEPUJYnov3S4SmHufBvKT7CzpmKtRzGt3EkgVOQvcBtpMzbsyWCb_Yz9qWotPZg4ljrw4hL0owjsfBpQrVHsxjkZ5TrxTTHwhgbFNbat6Y3UlE" height="62" style=""></iframe>
+
 [Centralpoint][2]
 
 <button data-role="cta" style="">Expert</button>
