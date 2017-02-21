@@ -1,10 +1,10 @@
 ---
-datePublished: '2017-02-21T22:22:35.390Z'
+datePublished: '2017-02-21T22:26:58.249Z'
 description: Hardware
 via: {}
 inFeed: true
 publisher: {}
-dateModified: '2017-02-21T22:22:34.853Z'
+dateModified: '2017-02-21T22:26:57.725Z'
 sourcePath: _posts/2016-11-29-webwinkel-verzameling.md
 title: ''
 hasPage: true
@@ -20,7 +20,7 @@ _type: Article
 [Hardware][0]
 [Alternate][1]
 
-<iframe src="https://the-grid.github.io/ed-userhtml/?g=eJw9z00SgjAMBeCrdLJwSRUQ_wgehYkQKUMpTMxMr29Fx03yVvleajJO-IngVNertTHGjLyyBFLOgreq9q6Kl33Z5vnxfGkPRXGqDu2O5vUmCEZJBlaE9uEpTGCEPUJYnov3S4SmHufBvKT7CzpmKtRzGt3EkgVOQvcBtpMzbsyWCb_Yz9qWotPZg4ljrw4hL0owjsfBpQrVHsxjkZ5TrxTTHwhgbFNbat6Y3UlE" height="62" style=""></iframe>
+<iframe src="https://the-grid.github.io/ed-userhtml/?g=eJw9z8EOgjAMBuBXWXrwyFBBQSk-CqlQGHEMU5vs9Z1ovLRND_3-NmSc8IjgVJ8Xa2OMGXllCaScBW9V7U0V67zoDoeyqrv98Xg-7bsdLc-rIBglmVgRurun8AAj7BHCOq7erxHaZl4m85L-L-icqdDAqfQPlixwEvoPsJ1ccGO2mfCL_aytKTpdPJg4D-oQTkUOxvE8uRShrMDcVxk45Urr9AcCGNs2lto3mclJTA" height="62" style=""></iframe>
 
 [Centralpoint][2]
 
