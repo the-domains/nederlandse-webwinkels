@@ -1,10 +1,10 @@
 ---
-datePublished: '2017-02-21T22:29:06.812Z'
+datePublished: '2017-02-23T23:23:25.810Z'
 description: Hardware
 via: {}
 inFeed: true
 publisher: {}
-dateModified: '2017-02-21T22:29:06.027Z'
+dateModified: '2017-02-23T23:23:25.231Z'
 sourcePath: _posts/2016-11-29-webwinkel-verzameling.md
 title: ''
 hasPage: true
@@ -40,7 +40,7 @@ _type: Article
 
 [0]: https://thegrid.ai/nederlandse-webwinkels/software "Software"
 [1]: http://www.alternate.nl/tt/?tt=904_12_133761_&r=%2F
-[2]: https://www.centralpoint.nl/
+[2]: http://www.centralpoint.nl/tracker/index.php?tt=534_12_133761_&r=%2F
 [3]: http://tc.tradetracker.net/?c=3452&m=12&a=133761
 [4]: https://www.misco.nl/
 [5]: http://www.replacedirect.nl/page/startExternal/?tt=4825_12_133761_&r=%2F
