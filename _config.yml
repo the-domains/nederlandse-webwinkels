@@ -1,4 +1,3 @@
-layout_spectrum: 0.428087681235266
 typography_spectrum: 0.887225997775959
 color:
   brandStrength: 0.729096771079844
@@ -16,10 +15,13 @@ opengraph:
   image: null
   type: null
   appId: null
+layout_spectrum: 0.428087681235266
 analytics:
   twitter: null
   google: null
   facebook: null
+logo: >-
+  https://the-grid-user-content.s3-us-west-2.amazonaws.com/eafecbc3-2d73-4db7-b2f5-3fd6de6b694e.jpg
 name: Nederlandse-Webwinkels
 cta:
   version: null
@@ -28,6 +30,9 @@ cta:
 navigation:
   - name: Software
     id: 9fe5b614-baa9-4ca2-8abc-0727747b2bcb
+    type: content
+  - name: Hardware
+    id: eedd3988-adf6-4e6a-b10f-a15f857fe735
     type: content
 favicon: >-
   https://the-grid-user-content.s3-us-west-2.amazonaws.com/c6a9806a-1a4b-4b35-8bec-c19c27a403ea.jpg
@@ -71,5 +76,3 @@ content:
     text: !<tag:yaml.org,2002:js/undefined> ''
 description: ''
 purpose: []
-logo: >-
-  https://the-grid-user-content.s3-us-west-2.amazonaws.com/eafecbc3-2d73-4db7-b2f5-3fd6de6b694e.jpg
