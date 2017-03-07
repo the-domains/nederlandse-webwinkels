@@ -1,10 +1,10 @@
 ---
-datePublished: '2017-03-07T14:20:10.041Z'
+datePublished: '2017-03-07T14:23:05.380Z'
 description: Hardware
 via: {}
 inFeed: true
 publisher: {}
-dateModified: '2017-03-07T14:20:09.436Z'
+dateModified: '2017-03-07T14:23:04.172Z'
 sourcePath: _posts/2016-11-29-webwinkel-verzameling.md
 title: ''
 hasPage: true
@@ -40,7 +40,7 @@ _type: Article
 [0]: https://thegrid.ai/nederlandse-webwinkels/software "Software"
 [1]: http://tc.tradetracker.net/?c=15640&m=815289&a=133761&r=&u=
 [2]: http://www.alternate.nl/tt/?tt=904_12_133761_&r=%2F
-[3]: http://www.beat-it.nl/
+[3]: http://www.beat-it.nl/beat/?tt=16924_610437_133761_&r=
 [4]: http://www.centralpoint.nl/tracker/index.php?tt=534_12_133761_&r=%2F
 [5]: http://tc.tradetracker.net/?c=5515&m=202159&a=133761&r=&u=
 [6]: http://tc.tradetracker.net/?c=3452&m=12&a=133761
