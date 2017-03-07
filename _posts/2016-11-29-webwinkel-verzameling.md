@@ -1,10 +1,10 @@
 ---
-datePublished: '2017-03-07T14:19:54.493Z'
+datePublished: '2017-03-07T14:20:10.041Z'
 description: Hardware
 via: {}
 inFeed: true
 publisher: {}
-dateModified: '2017-03-07T14:19:53.363Z'
+dateModified: '2017-03-07T14:20:09.436Z'
 sourcePath: _posts/2016-11-29-webwinkel-verzameling.md
 title: ''
 hasPage: true
@@ -20,11 +20,6 @@ _type: Article
 [Hardware][0]
 [Ali Express][1]
 [Alternate][2]
-
-    <a href="http://www.alternate.nl/tt/?tt=904_609564_133761_&amp;r=" target="_blank" rel="nofollow"><img src="http://ti.tradetracker.net/?c=904&amp;m=609564&amp;a=133761&amp;r=&amp;t=html" width="234" height="60" border="0" alt="" /></a>
-
-<iframe src="https://the-grid.github.io/ed-userhtml/?g=eJw9z80OgjAMB_BXWXrwyFAQg1J8FFKhMOIYpDbZ6zvReOnHpb9_GzJOeERwqtvV2hhjRl5ZAilnwVtVe1fFOi-7Kq_PVdkdi-JSHbsDLdtNEIySTKwI3cNTeIIR9ghhHVfv1whtMy-TeUn_J3TOVGjgVPonSxY4Ef1H2E8u-HX2hfCr_bC9KTpdPJg4D-oQTkUJxvE8uZShysE8Vhk4BUtj-gQBjG0bS-0bEVpJrA" height="65" style=""></iframe>
-
 [Beat-it][3]
 
 <button data-role="cta" style="">Bechtle</button>
