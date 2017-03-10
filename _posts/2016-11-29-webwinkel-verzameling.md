@@ -1,10 +1,10 @@
 ---
-datePublished: '2017-03-10T14:34:44.719Z'
+datePublished: '2017-03-10T15:01:37.607Z'
 description: Hardware
 via: {}
 inFeed: true
 publisher: {}
-dateModified: '2017-03-10T14:34:43.551Z'
+dateModified: '2017-03-10T15:01:36.947Z'
 sourcePath: _posts/2016-11-29-webwinkel-verzameling.md
 title: ''
 hasPage: true
@@ -44,6 +44,6 @@ _type: Article
 [4]: http://www.centralpoint.nl/tracker/index.php?tt=534_12_133761_&r=%2F
 [5]: http://tc.tradetracker.net/?c=5515&m=202159&a=133761&r=&u=
 [6]: http://tc.tradetracker.net/?c=3452&m=12&a=133761
-[7]: http://tc.tradetracker.net/?c=5917&m=200109&a=88590&r=&u=
+[7]: http://tc.tradetracker.net/?c=5917&m=12&a=133761&r=Rapportagened.webw&u=%2F
 [8]: http://www.replacedirect.nl/page/startExternal/?tt=4825_12_133761_&r=%2F
 [9]: https://www.yorcom.nl/
