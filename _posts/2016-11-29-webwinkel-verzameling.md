@@ -1,10 +1,10 @@
 ---
-datePublished: '2017-03-10T15:28:01.589Z'
+datePublished: '2017-03-20T12:48:06.930Z'
 description: Hardware
 via: {}
 inFeed: true
 publisher: {}
-dateModified: '2017-03-10T15:28:00.828Z'
+dateModified: '2017-03-20T12:48:06.247Z'
 sourcePath: _posts/2016-11-29-webwinkel-verzameling.md
 title: ''
 hasPage: true
@@ -41,7 +41,7 @@ _type: Article
 [1]: http://tc.tradetracker.net/?c=15640&m=815289&a=133761&r=&u=
 [2]: http://www.alternate.nl/tt/?tt=904_12_133761_&r=%2F
 [3]: http://www.beat-it.nl/beat/?tt=16924_610437_133761_&r=
-[4]: http://www.centralpoint.nl/tracker/index.php?tt=534_12_133761_Rapportagened.webw&r=%2F
+[4]: http://www.centralpoint.nl/tracker/index.php?tt=534_100285_88325_&r=
 [5]: http://tc.tradetracker.net/?c=5515&m=12&a=133761&u=%2F
 [6]: http://tc.tradetracker.net/?c=3452&m=12&a=133761
 [7]: http://tc.tradetracker.net/?c=5917&m=12&a=133761&r=Rapportagened.webw&u=%2F
