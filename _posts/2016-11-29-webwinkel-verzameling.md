@@ -1,10 +1,10 @@
 ---
-datePublished: '2017-04-03T19:53:46.306Z'
+datePublished: '2017-04-03T20:06:22.889Z'
 description: Hardware
 via: {}
 inFeed: true
 publisher: {}
-dateModified: '2017-04-03T19:53:45.035Z'
+dateModified: '2017-04-03T20:06:22.169Z'
 sourcePath: _posts/2016-11-29-webwinkel-verzameling.md
 title: ''
 hasPage: true
@@ -37,16 +37,20 @@ _type: Article
 [Hardware.nl][11]
 [Interngeheugen][12]
 [Invender][13]
-[Medion][14]
-[Misco][15]
+[Magix][14]
+
+<button data-role="cta" style="">Open</button>
+
+[Medion][15]
+[Misco][16]
 
 <button data-role="cta" style="">Otto</button>
 
-[Replacedirect][16]
+[Replacedirect][17]
 
 <button data-role="cta" style="">Wehkamp</button>
 
-[Yorcom][17]
+[Yorcom][18]
 
 ---
 
@@ -66,7 +70,8 @@ _type: Article
 [11]: http://www.hardware.nl/tt/?tt=541_12_133761_Hardware.nl&r=%2F
 [12]: http://www.interngeheugen.com/tt/?tt=2902_12_133761_Interngeheugen&r=%2F
 [13]: http://www.invender.nl/ttiv/index.php?tt=352_12_133761_Invender&r=%2F
-[14]: http://tc.tradetracker.net/?c=3452&m=12&a=133761
-[15]: http://tc.tradetracker.net/?c=5917&m=12&a=133761&r=Rapportagened.webw&u=%2F
-[16]: http://www.replacedirect.nl/page/startExternal/?tt=4825_12_133761_Rapportagened.webw&r=%2F
-[17]: http://www.yorcom.nl/shopping/?tt=4837_12_133761_Rapportagened.webw&r=%2F
+[14]: http://www.magix.com/ap/tradetracker/?tt=2074_12_133761_Magix&r=%2F
+[15]: http://tc.tradetracker.net/?c=3452&m=12&a=133761
+[16]: http://tc.tradetracker.net/?c=5917&m=12&a=133761&r=Rapportagened.webw&u=%2F
+[17]: http://www.replacedirect.nl/page/startExternal/?tt=4825_12_133761_Rapportagened.webw&r=%2F
+[18]: http://www.yorcom.nl/shopping/?tt=4837_12_133761_Rapportagened.webw&r=%2F
