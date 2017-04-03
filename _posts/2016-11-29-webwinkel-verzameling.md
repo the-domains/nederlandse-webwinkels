@@ -1,10 +1,10 @@
 ---
-datePublished: '2017-04-03T20:06:22.889Z'
+datePublished: '2017-04-03T20:27:26.410Z'
 description: Hardware
 via: {}
 inFeed: true
 publisher: {}
-dateModified: '2017-04-03T20:06:22.169Z'
+dateModified: '2017-04-03T20:27:24.623Z'
 sourcePath: _posts/2016-11-29-webwinkel-verzameling.md
 title: ''
 hasPage: true
@@ -43,14 +43,18 @@ _type: Article
 
 [Medion][15]
 [Misco][16]
+[Muizenshop][13]
+[Norrod][17]
 
 <button data-role="cta" style="">Otto</button>
 
-[Replacedirect][17]
+[Paradigit][18]
+[Invender][19]
+[Replacedirect][20]
 
 <button data-role="cta" style="">Wehkamp</button>
 
-[Yorcom][18]
+[Yorcom][21]
 
 ---
 
@@ -73,5 +77,8 @@ _type: Article
 [14]: http://www.magix.com/ap/tradetracker/?tt=2074_12_133761_Magix&r=%2F
 [15]: http://tc.tradetracker.net/?c=3452&m=12&a=133761
 [16]: http://tc.tradetracker.net/?c=5917&m=12&a=133761&r=Rapportagened.webw&u=%2F
-[17]: http://www.replacedirect.nl/page/startExternal/?tt=4825_12_133761_Rapportagened.webw&r=%2F
-[18]: http://www.yorcom.nl/shopping/?tt=4837_12_133761_Rapportagened.webw&r=%2F
+[17]: http://www.norrod.nl/tt/index.aspx?tt=23396_12_133761_Norrod&r=%2F
+[18]: http://www.paradigit.nl/tt/index.aspx?tt=5043_12_133761_Paradigit&r=%2F
+[19]: http://www.phoneshop.nl/gsm/?tt=727_12_133761_Phoneshop&r=%2F
+[20]: http://www.replacedirect.nl/page/startExternal/?tt=4825_12_133761_Rapportagened.webw&r=%2F
+[21]: http://www.yorcom.nl/shopping/?tt=4837_12_133761_Rapportagened.webw&r=%2F
