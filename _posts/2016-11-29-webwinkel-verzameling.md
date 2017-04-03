@@ -1,10 +1,10 @@
 ---
-datePublished: '2017-03-22T11:25:47.023Z'
+datePublished: '2017-04-03T12:44:27.374Z'
 description: Hardware
 via: {}
 inFeed: true
 publisher: {}
-dateModified: '2017-03-22T11:25:46.491Z'
+dateModified: '2017-04-03T12:44:26.550Z'
 sourcePath: _posts/2016-11-29-webwinkel-verzameling.md
 title: ''
 hasPage: true
