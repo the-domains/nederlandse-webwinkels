@@ -1,10 +1,10 @@
 ---
-datePublished: '2017-04-03T20:35:12.836Z'
+datePublished: '2017-04-03T20:41:50.702Z'
 description: Hardware
 via: {}
 inFeed: true
 publisher: {}
-dateModified: '2017-04-03T20:35:11.560Z'
+dateModified: '2017-04-03T20:41:49.683Z'
 sourcePath: _posts/2016-11-29-webwinkel-verzameling.md
 title: ''
 hasPage: true
@@ -51,12 +51,13 @@ _type: Article
 [Paradigit][18]
 [Invender][19]
 [Replacedirect][20]
-[UsedPC4Sale][21]
-[Ritel][22]
+[Ritel][21]
+[UsedPC4Sale][22]
+[Viadennis][23]
 
 <button data-role="cta" style="">Wehkamp</button>
 
-[Yorcom][23]
+[Yorcom][24]
 
 ---
 
@@ -83,6 +84,7 @@ _type: Article
 [18]: http://www.paradigit.nl/tt/index.aspx?tt=5043_12_133761_Paradigit&r=%2F
 [19]: http://www.phoneshop.nl/gsm/?tt=727_12_133761_Phoneshop&r=%2F
 [20]: http://www.replacedirect.nl/page/startExternal/?tt=4825_12_133761_Rapportagened.webw&r=%2F
-[21]: http://tc.tradetracker.net/?c=20400&m=12&a=133761&r=UsedPC4sale&u=%2F
-[22]: http://www.ritel.nl/telecom/?tt=668_12_133761_Ritel&r=%2F
-[23]: http://www.yorcom.nl/shopping/?tt=4837_12_133761_Rapportagened.webw&r=%2F
+[21]: http://www.ritel.nl/telecom/?tt=668_12_133761_Ritel&r=%2F
+[22]: http://tc.tradetracker.net/?c=20400&m=12&a=133761&r=UsedPC4sale&u=%2F
+[23]: http://www.viadennis.nl/computer/?tt=15804_12_133761_Viadennis&r=%2F
+[24]: http://www.yorcom.nl/shopping/?tt=4837_12_133761_Rapportagened.webw&r=%2F
