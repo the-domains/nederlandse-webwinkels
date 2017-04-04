@@ -1,10 +1,10 @@
 ---
-datePublished: '2017-04-03T20:45:51.907Z'
+datePublished: '2017-04-04T11:17:44.739Z'
 description: Hardware
 via: {}
 inFeed: true
 publisher: {}
-dateModified: '2017-04-03T20:45:50.779Z'
+dateModified: '2017-04-04T11:17:43.805Z'
 sourcePath: _posts/2016-11-29-webwinkel-verzameling.md
 title: ''
 hasPage: true
@@ -15,7 +15,7 @@ url: hardware/index.html
 _type: Article
 
 ---
-![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/93e0af21-7a90-4d17-852a-d55e03967101.jpg)
+![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/ec19c922-42e0-4b92-ad52-af857f920e81.jpg)
 
 [Hardware][0]
 [Acesdirect][1]
@@ -23,37 +23,36 @@ _type: Article
 [Ali Express][3]
 [Alternate][4]
 [Beat-it][5]
+[Campusshop][6]
+[Computer Pirates][7]
 
 <button data-role="cta" style="">Bechtle</button>
 
-[Bol.com][6]
-[Campusshop][7]
-[Centralpoint][8]
-[Computer Pirates][9]
-[Expert][10]
+<button data-role="cta" style="">Open</button>
+
+[Hardware.nl][8]
+[Interngeheugen][9]
+[Invender][10]
+[Magix][11]
 
 <button data-role="cta" style="">Open</button>
 
-[Hardware.nl][11]
-[Interngeheugen][12]
-[Invender][13]
-[Magix][14]
-
-<button data-role="cta" style="">Open</button>
-
-[Medion][15]
-[Misco][16]
-[Muizenshop][13]
-[Norrod][17]
+[Bol.com][12]
+[Muizenshop][10]
+[Norrod][13]
+[Paradigit][14]
+[Invender][15]
+[Centralpoint][16]
+[Ritel][17]
+[UsedPC4Sale][18]
+[Viadennis][19]
+[Expert][20]
+[Medion][21]
+[Misco][22]
 
 <button data-role="cta" style="">Otto</button>
 
-[Paradigit][18]
-[Invender][19]
-[Replacedirect][20]
-[Ritel][21]
-[UsedPC4Sale][22]
-[Viadennis][23]
+[Replacedirect][23]
 
 <button data-role="cta" style="">Wehkamp</button>
 
@@ -69,22 +68,22 @@ _type: Article
 [3]: http://tc.tradetracker.net/?c=15640&m=815289&a=133761&r=&u=
 [4]: http://www.alternate.nl/tt/?tt=904_12_133761_&r=%2F
 [5]: http://www.beat-it.nl/beat/?tt=16924_610437_133761_&r=
-[6]: https://partnerprogramma.bol.com/click/click?p=1&t=url&s=4310&f=TXL&url=http%3A%2F%2Fwww.bol.com&name=Bol-Nedweb
-[7]: http://www.campusshop.nl/tt/index.aspx?tt=23397_12_133761_Campusshop&r=%2F
-[8]: http://www.centralpoint.nl/tracker/index.php?tt=534_12_133761_Ned-Web&r=%2F
-[9]: http://www.computerpirates.com/tradetracker/?tt=181_12_133761_ComputerPirates&r=%2F
-[10]: http://tc.tradetracker.net/?c=5515&m=12&a=133761&u=%2F
-[11]: http://www.hardware.nl/tt/?tt=541_12_133761_Hardware.nl&r=%2F
-[12]: http://www.interngeheugen.com/tt/?tt=2902_12_133761_Interngeheugen&r=%2F
-[13]: http://www.invender.nl/ttiv/index.php?tt=352_12_133761_Invender&r=%2F
-[14]: http://www.magix.com/ap/tradetracker/?tt=2074_12_133761_Magix&r=%2F
-[15]: http://tc.tradetracker.net/?c=3452&m=12&a=133761
-[16]: http://tc.tradetracker.net/?c=5917&m=12&a=133761&r=Rapportagened.webw&u=%2F
-[17]: http://www.norrod.nl/tt/index.aspx?tt=23396_12_133761_Norrod&r=%2F
-[18]: http://www.paradigit.nl/tt/index.aspx?tt=5043_12_133761_Paradigit&r=%2F
-[19]: http://www.phoneshop.nl/gsm/?tt=727_12_133761_Phoneshop&r=%2F
-[20]: http://www.replacedirect.nl/page/startExternal/?tt=4825_12_133761_Rapportagened.webw&r=%2F
-[21]: http://www.ritel.nl/telecom/?tt=668_12_133761_Ritel&r=%2F
-[22]: http://tc.tradetracker.net/?c=20400&m=12&a=133761&r=UsedPC4sale&u=%2F
-[23]: http://www.viadennis.nl/computer/?tt=15804_12_133761_Viadennis&r=%2F
+[6]: http://www.campusshop.nl/tt/index.aspx?tt=23397_12_133761_Campusshop&r=%2F
+[7]: http://www.computerpirates.com/tradetracker/?tt=181_12_133761_ComputerPirates&r=%2F
+[8]: http://www.hardware.nl/tt/?tt=541_12_133761_Hardware.nl&r=%2F
+[9]: http://www.interngeheugen.com/tt/?tt=2902_12_133761_Interngeheugen&r=%2F
+[10]: http://www.invender.nl/ttiv/index.php?tt=352_12_133761_Invender&r=%2F
+[11]: http://www.magix.com/ap/tradetracker/?tt=2074_12_133761_Magix&r=%2F
+[12]: https://partnerprogramma.bol.com/click/click?p=1&t=url&s=4310&f=TXL&url=http%3A%2F%2Fwww.bol.com&name=Bol-Nedweb
+[13]: http://www.norrod.nl/tt/index.aspx?tt=23396_12_133761_Norrod&r=%2F
+[14]: http://www.paradigit.nl/tt/index.aspx?tt=5043_12_133761_Paradigit&r=%2F
+[15]: http://www.phoneshop.nl/gsm/?tt=727_12_133761_Phoneshop&r=%2F
+[16]: http://www.centralpoint.nl/tracker/index.php?tt=534_12_133761_Ned-Web&r=%2F
+[17]: http://www.ritel.nl/telecom/?tt=668_12_133761_Ritel&r=%2F
+[18]: http://tc.tradetracker.net/?c=20400&m=12&a=133761&r=UsedPC4sale&u=%2F
+[19]: http://www.viadennis.nl/computer/?tt=15804_12_133761_Viadennis&r=%2F
+[20]: http://tc.tradetracker.net/?c=5515&m=12&a=133761&u=%2F
+[21]: http://tc.tradetracker.net/?c=3452&m=12&a=133761
+[22]: http://tc.tradetracker.net/?c=5917&m=12&a=133761&r=Rapportagened.webw&u=%2F
+[23]: http://www.replacedirect.nl/page/startExternal/?tt=4825_12_133761_Rapportagened.webw&r=%2F
 [24]: http://www.yorcom.nl/shopping/?tt=4837_12_133761_Rapportagened.webw&r=%2F
