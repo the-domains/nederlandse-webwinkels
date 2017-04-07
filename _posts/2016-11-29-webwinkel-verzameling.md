@@ -1,10 +1,10 @@
 ---
-datePublished: '2017-04-04T11:17:44.739Z'
+datePublished: '2017-04-07T23:38:51.000Z'
 description: Hardware
 via: {}
 inFeed: true
 publisher: {}
-dateModified: '2017-04-04T11:17:43.805Z'
+dateModified: '2017-04-07T23:38:49.001Z'
 sourcePath: _posts/2016-11-29-webwinkel-verzameling.md
 title: ''
 hasPage: true
@@ -53,6 +53,8 @@ _type: Article
 <button data-role="cta" style="">Otto</button>
 
 [Replacedirect][23]
+
+<button data-role="cta" style="">Viadennis</button>
 
 <button data-role="cta" style="">Wehkamp</button>
 
