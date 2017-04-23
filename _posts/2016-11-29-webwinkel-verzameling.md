@@ -1,10 +1,10 @@
 ---
-datePublished: '2017-04-23T21:02:14.293Z'
+datePublished: '2017-04-23T21:04:51.920Z'
 description: Hardware
 via: {}
 inFeed: true
 publisher: {}
-dateModified: '2017-04-23T21:02:13.741Z'
+dateModified: '2017-04-23T21:04:51.350Z'
 sourcePath: _posts/2016-11-29-webwinkel-verzameling.md
 title: ''
 hasPage: true
@@ -26,6 +26,7 @@ _type: Article
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/d57dac3f-a232-4015-ade6-b41db06c3670.jpg)
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/7fbae0df-0783-433e-9e91-0cf9ddbf9df6.jpg)
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/ef848ba2-95ec-41e5-9f49-497a5a9ecacd.jpg)
+![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/8252e933-d316-4e87-a637-45679bfb080b.jpg)
 
 ---
 
@@ -65,7 +66,7 @@ _type: Article
 
 ---
 
-![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/8252e933-d316-4e87-a637-45679bfb080b.jpg)
+
 
 [0]: https://thegrid.ai/nederlandse-webwinkels/software "Software"
 [1]: http://tc.tradetracker.net/?c=18080&m=12&a=133761&r=Acesdirect&u=%2F
