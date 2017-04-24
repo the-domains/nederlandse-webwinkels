@@ -1,10 +1,10 @@
 ---
-datePublished: '2017-04-24T18:06:16.552Z'
+datePublished: '2017-04-24T18:09:30.682Z'
 description: Hardware
 via: {}
 inFeed: true
 publisher: {}
-dateModified: '2017-04-24T18:06:15.951Z'
+dateModified: '2017-04-24T18:09:29.922Z'
 sourcePath: _posts/2016-11-29-webwinkel-verzameling.md
 title: ''
 hasPage: true
@@ -19,9 +19,6 @@ _type: Article
 
 [Hardware][0]
 [Acesdirect][1]
-
----
-
 [Alibaba][2]
 
 ---
@@ -29,6 +26,8 @@ _type: Article
 [Ali Express][3]
 [Alternate][4]
 [Beat-it][5]
+
+---
 
 <button data-role="cta" style="">Bechtle</button>
 
