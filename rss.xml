@@ -4,9 +4,9 @@
         <description><![CDATA[Nederlandse Webwinkels]]></description>
         <link>https://thegrid.ai/nederlandse-webwinkels/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Mon, 24 Apr 2017 19:40:27 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 24 Apr 2017 19:43:39 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/nederlandse-webwinkels/rss.xml" rel="self" type="application/rss+xml"/>
-        <pubDate>Mon, 24 Apr 2017 19:40:16 GMT</pubDate>
+        <pubDate>Mon, 24 Apr 2017 19:43:34 GMT</pubDate>
         <item>
             <title><![CDATA[Hardware.]]></title>
             <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/ec19c922-42e0-4b92-ad52-af857f920e81.jpg">,<p><a href="https://thegrid.ai/nederlandse-webwinkels/software" title="Software">Hardware</a></p>,<a href="http://tc.tradetracker.net/?c=18080&amp;m=12&amp;a=133761&amp;r=Acesdirect&amp;u=%2F" data-role="cta">Acesdirect</a>,<a href="http://tc.tradetracker.net/?c=16426&amp;m=12&amp;a=133761&amp;r=Alibaba" data-role="cta">Alibaba</a>]]></description>
@@ -20,6 +20,13 @@
             <link>https://thegrid.ai/nederlandse-webwinkels/security/index.html</link>
             <guid isPermaLink="false">9fe5b614-baa9-4ca2-8abc-0727747b2bcb</guid>
             <pubDate>Wed, 12 Apr 2017 22:38:14 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[No title]]></title>
+            <description><![CDATA[<p>test</p>]]></description>
+            <link>https://thegrid.ai/nederlandse-webwinkels/test/index.html</link>
+            <guid isPermaLink="false">14cdc874-7007-4924-82dc-df1ea0f4f9e8</guid>
+            <pubDate>Mon, 24 Apr 2017 19:43:33 GMT</pubDate>
         </item>
     </channel>
 </rss>
