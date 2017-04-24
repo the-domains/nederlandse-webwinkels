@@ -1,4 +1,3 @@
-layout_spectrum: 0.4231663932869819
 typography_spectrum: 0.9569760953048521
 color:
   brandStrength: 0.725431164839849
@@ -16,6 +15,7 @@ opengraph:
   image: null
   type: null
   appId: null
+layout_spectrum: 0.4231663932869819
 analytics:
   twitter: null
   google: null
@@ -33,6 +33,9 @@ navigation:
     type: content
   - name: Hardware
     id: eedd3988-adf6-4e6a-b10f-a15f857fe735
+    type: content
+  - name: html test
+    id: 14cdc874-7007-4924-82dc-df1ea0f4f9e8
     type: content
 favicon: >-
   https://the-grid-user-content.s3-us-west-2.amazonaws.com/c6a9806a-1a4b-4b35-8bec-c19c27a403ea.jpg
