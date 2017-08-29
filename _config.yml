@@ -28,14 +28,11 @@ cta:
   bucket: null
   domain: null
 navigation:
-  - name: Software
-    id: 9fe5b614-baa9-4ca2-8abc-0727747b2bcb
-    type: content
   - name: Hardware
     id: eedd3988-adf6-4e6a-b10f-a15f857fe735
     type: content
-  - name: html test
-    id: 14cdc874-7007-4924-82dc-df1ea0f4f9e8
+  - name: Software
+    id: 9fe5b614-baa9-4ca2-8abc-0727747b2bcb
     type: content
 favicon: >-
   https://the-grid-user-content.s3-us-west-2.amazonaws.com/c6a9806a-1a4b-4b35-8bec-c19c27a403ea.jpg
