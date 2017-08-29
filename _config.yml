@@ -34,9 +34,6 @@ navigation:
   - name: Software
     id: 9fe5b614-baa9-4ca2-8abc-0727747b2bcb
     type: content
-  - name: Images
-    id: 0d53b42b-b40c-4747-99f8-a968caac3777
-    type: content
 favicon: >-
   https://the-grid-user-content.s3-us-west-2.amazonaws.com/c6a9806a-1a4b-4b35-8bec-c19c27a403ea.jpg
 collections:
