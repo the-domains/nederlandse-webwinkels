@@ -1,10 +1,10 @@
 ---
-datePublished: '2017-09-05T14:02:14.881Z'
+datePublished: '2017-09-05T14:03:43.512Z'
 description: ''
 via: {}
 inFeed: true
 publisher: {}
-dateModified: '2017-09-05T14:02:13.900Z'
+dateModified: '2017-09-05T14:03:42.402Z'
 sourcePath: _posts/2016-11-29-webwinkel-verzameling.md
 title: Hardware
 hasPage: true
@@ -21,7 +21,7 @@ _type: Article
 
 ---
 
-[Bolle.com][0]
+[Bol.com][0]
 [Campusshop][1]
 [Centralpoint][2]
 [Computer Pirates][3]
