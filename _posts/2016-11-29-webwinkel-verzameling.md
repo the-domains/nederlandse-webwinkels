@@ -1,10 +1,10 @@
 ---
-datePublished: '2017-08-29T19:32:13.737Z'
+datePublished: '2017-09-05T13:43:43.862Z'
 description: ''
 via: {}
 inFeed: true
 publisher: {}
-dateModified: '2017-08-29T19:32:11.415Z'
+dateModified: '2017-09-05T13:43:43.079Z'
 sourcePath: _posts/2016-11-29-webwinkel-verzameling.md
 title: Hardware
 hasPage: true
@@ -17,11 +17,11 @@ _type: Article
 ---
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/ec19c922-42e0-4b92-ad52-af857f920e81.jpg)
 
-<iframe src="https://the-grid.github.io/ed-userhtml/?g=eJzFll1vmzAUhu_zKxhSuQvmI1Dy4VRdtqmTui4XkbpdIQMnYMUYZByR_vuZj0Tt2kaROjQJGduSz_s-x8eGxacvP1eb3-uvWiZzthwtji8gyXI0WhAtE7DFeiZlOUNIxqYUJAHVxDsQJgeJbmJsB1ZgGSQv5zm2nbZDsO26177dDgS-jaFKqIBYthN7fOV80zVJRAoS62HECN_pywXNU60S8UmvrmszKnIipMkZ-p6TFCrEkyikXVdmkAqaoJryHTBOSI6IUhp3UmbJU10jTCncbX7ca3IvC0EJ07VKPjHAek0Tmc1syyoP8wxomslmoKlRVIgExMyaK1OILLXLU-FPHP98KhiNSESGoe-D_xdyz58ciyCwPSeYvkXfb_9g9HAoBVTVoAlonKnQIDiR0JiTKgFS4qk1CW0n7HjDHni4Qj85GJo1AiLHtHXWdFtW2586k9C3rYl7_RfxMLhHE_8M9j1WtYI1uzoURtzGvxDDeY7hXIBRKVulMsRBlKJIBclzojwyMy5yFDMa77r2psS2IfFeMKPCE9e2jC3e_Lo31ARu4ly5t6py1dMxtusNTnLAnws2foCkhmigDKn4SuzjG-2d3egYuLrAWFlQ3nrrbzNEeQIHs8zKpso99_mJfnh8HK_WZ861JoBhnRfbgrGi1perlxqtmVcpkvTN61RJv74_JS5pr9-Z6TOka-jDmJblBF4YBK7jhav1WMV_7zwPgam-lq2Bnrm1cUJ-Qak4VY0kT0oDdX8rfwAjyOv3" height="100" style=""></iframe>
+<iframe src="https://the-grid.github.io/ed-userhtml/?g=eJzlVl1r2zAUfc-v8Az1Wyx_1_lQStdtdNB1fQh0ezKyfWuLSLKQFZL--8l2EsYII2P1wxgYWVegc88591rW8t2Hr3fr708frVpztposjy8g5WoyWSyJVSt4wXattZwjpAtXK1KCGYoNKFeARjcF9pMoSBzC5YJjP-gnBPtheJ34faDwLaM5yYltaaIq0NjOckbExl4tKa-sVhWnFLvdzs0bTpR2BUOfOamgRaLMMzpMdQ2VoiXaUbEBJgjh6ADuSlHZFmEG_X795cHSW90oSphttfqVAbZ3tNT13Pc8uV_UQKtad4FlorxRJai5tzCEEFlZfyA99VLv99ILaEuqoND9whZfBZ_G8YGYTNMh1Zt6cakVcRIdrUj9OEhn5-w4mDBaJ8BeKmjbUQ3omBloUIJo6MhpY4DWeOZFmR9kg97sIHi8cp8YjNr4PTMgekp7at20F-snsyDKEt-LwutfJI-j90jizdSeL2wOZgfryjqWjKLHv1BG8LOM4AIZraElDSEBSqqmUoRzYjgyt2g4KhgtNsN4I7HvaLxVzGlxFPqe84LX3x4cs4A7nKvw1rSueQaN_X5HEA74fcOmj1DuIB_JIYNvkv19oeOTQ2crXYAwRxiTDRU9ucN5hqgoYe_KWnZtHofmm_a8II2zNA2DOLt7mj4-P586ffKv_NH-dwuMAaazyldzvUHDNecHhXEEeg" height="500" style=""></iframe>
 
 ---
 
-[Bol.com][0]
+[Bolle.com][0]
 [Campusshop][1]
 [Centralpoint][2]
 [Computer Pirates][3]
