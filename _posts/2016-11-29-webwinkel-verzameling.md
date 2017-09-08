@@ -1,10 +1,10 @@
 ---
-datePublished: '2017-09-08T20:10:25.769Z'
+datePublished: '2017-09-08T20:33:40.782Z'
 description: ''
 via: {}
 inFeed: true
 publisher: {}
-dateModified: '2017-09-08T20:10:25.198Z'
+dateModified: '2017-09-08T20:33:40.147Z'
 sourcePath: _posts/2016-11-29-webwinkel-verzameling.md
 title: ''
 hasPage: true
@@ -17,7 +17,7 @@ _type: Article
 ---
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/e4f5c7a1-5645-4150-88af-80872fdd68a7.jpg)
 
-<iframe src="https://the-grid.github.io/ed-userhtml/?g=eJy1ld9vmzAQx9_zVzCk8hYMJOnaJE7V_dImdVsf8rA9ocNcwYptkLmI9r-fgWY_pFWq1FpCNofk730_d8i3ffPh-_v9z9uPQU1a7Wbb04ZQ7mazLQS1xTse1kTtmrG-7-NrJQsoIBaNDgMCWyHxMC8UmEO420pdBZ0V_5woGg2WYqPYFw0VdsyURS6nV6qxsrJkvTQHVAZAs1OC1lRhAMqpf95_vQnoSI2VoMKgoweFPOxlSfU6TZL2flOjrGoagsBFRWNLtOtk4wwx2AVPgAjsSmlRDNa8kIDLMH9M4ZOGREwWSnSLOKCNDRK7EjxdnS-TCHS70fwiXWUXl2MAPF0s3p6nY2D5uB25t17ifWux67y300mjNUA4mCNXACJ-mSzzNMsn3vwR-Cz75Af2jwPfrAUCzeXozAvJSf_VOJ7CEDWpoWF-GnLSfyZG9jdG9gyMztlqnSGDtrVNZUFrcB7VcDcyoaQ4TOtVy9OI-NGqqOPLRZpEd3z_4yZyH_igc7a4dj-leybG8XxkQCN_16j5Nyx7LDxVyOm7ZC9v9Op3hf7baYHGXU6qbaTxdtu--txwKK5A5YObh2yai78A52tw1w" height="200" style=""></iframe>
+<iframe src="https://the-grid.github.io/ed-userhtml/?g=eJzVld9vmzAQx9_zVzCk8hYMJOnaJE7V_dImdVsf8rA9ocNcwYptkLmI9r-fgabapFWq1PlhErJ9SP7e93MH9vbNh-_v9z9vPwY1abWbbU8TQrmbzbYQ1BbveFgTtWvG-r6Pr5UsoIBYNDoMCGyFxMO8UGAO4W4rdRV0Vvyxo2g0WIqNYl80VNgxUxa5nJZUY2VlyXppDqgMgGanBK2pwgCUU_-8_3oT0JEaK0GFQUcPCnnYy5LqdZok7f2mRlnVNASBi4rGlmjXycYZYrALngER2JXSohis-UEBl2L-mMMnDomYLJToBnFAGxskdiV4ujpfJhHodqP5RbrKLi7HAHi6WLw9T8fA8nE6cm_NxPvWYtd576eTRmuAcDBHrgBE_DJZ5mmWT7z5I_BZ9slTu58c-GYtEGguR2deSE76_4zjOQxRk0Jv_99J_4UY2e8Y2QswOmerdYYM2tY2lQWtwXlUw-HIhJLiMI1XLU8j4keroo4vF2kS3fH9j5vIveCDztni2n2U7pkYx_2RAY38XaPm37DssfBUIafvkr2-0aunCv210wKNO5xU20gzmPs_Lg6H4gpUPrgLkU0X4y8R5HD5" height="200" style=""></iframe>
 
 [Campusshop][0]
 [Centralpoint][1]
