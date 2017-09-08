@@ -1,10 +1,10 @@
 ---
-datePublished: '2017-09-08T19:50:55.447Z'
+datePublished: '2017-09-08T20:10:25.769Z'
 description: ''
 via: {}
 inFeed: true
 publisher: {}
-dateModified: '2017-09-08T19:50:54.761Z'
+dateModified: '2017-09-08T20:10:25.198Z'
 sourcePath: _posts/2016-11-29-webwinkel-verzameling.md
 title: ''
 hasPage: true
@@ -48,7 +48,7 @@ _type: Article
 
 [0]: http://www.campusshop.nl/tt/index.aspx?tt=23397_12_133761_Campusshop&r=%2F
 [1]: http://www.centralpoint.nl/tracker/index.php?tt=534_12_133761_Ned-Web&r=%2F
-[2]: http://www.computerpirates.com/tradetracker/?tt=181_12_133761_ComputerPirates&r=%2F
+[2]: http://www.computerpirates.com/
 [3]: http://tc.tradetracker.net/?c=5515&m=12&a=133761&u=%2F
 [4]: http://www.hardware.nl/
 [5]: http://www.interngeheugen.com/tt/?tt=2902_12_133761_Interngeheugen&r=%2F
