@@ -1,10 +1,10 @@
 ---
-datePublished: '2017-09-08T14:09:22.480Z'
+datePublished: '2017-09-08T14:12:38.553Z'
 description: ''
 via: {}
 inFeed: true
 publisher: {}
-dateModified: '2017-09-08T14:09:20.998Z'
+dateModified: '2017-09-08T14:12:36.737Z'
 sourcePath: _posts/2016-11-29-webwinkel-verzameling.md
 title: ''
 hasPage: true
@@ -17,9 +17,10 @@ _type: Article
 ---
 <iframe src="https://the-grid.github.io/ed-userhtml/?g=eJy1ld9vmzAQx9_zVzCk8hYMJOnaJE7V_dImdVsf8rA9ocNcwYptkLmI9r-fgWY_pFWq1FpCNofk730_d8i3ffPh-_v9z9uPQU1a7Wbb04ZQ7mazLQS1xTse1kTtmrG-7-NrJQsoIBaNDgMCWyHxMC8UmEO420pdBZ0V_5woGg2WYqPYFw0VdsyURS6nV6qxsrJkvTQHVAZAs1OC1lRhAMqpf95_vQnoSI2VoMKgoweFPOxlSfU6TZL2flOjrGoagsBFRWNLtOtk4wwx2AVPgAjsSmlRDNa8kIDLMH9M4ZOGREwWSnSLOKCNDRK7EjxdnS-TCHS70fwiXWUXl2MAPF0s3p6nY2D5uB25t17ifWux67y300mjNUA4mCNXACJ-mSzzNMsn3vwR-Cz75Af2jwPfrAUCzeXozAvJSf_VOJ7CEDWpoWF-GnLSfyZG9jdG9gyMztlqnSGDtrVNZUFrcB7VcDcyoaQ4TOtVy9OI-NGqqOPLRZpEd3z_4yZyH_igc7a4dj-leybG8XxkQCN_16j5Nyx7LDxVyOm7ZC9v9Op3hf7baYHGXU6qbaTxdtu--txwKK5A5YObh2yai78A52tw1w" height="200" style=""></iframe>
 
+[Bol.com][0]
+
 ---
 
-[Bol.com][0]
 [Campusshop][1]
 [Centralpoint][2]
 [Computer Pirates][3]
