@@ -1,10 +1,10 @@
 ---
-datePublished: '2017-09-10T18:48:52.898Z'
+datePublished: '2017-09-10T19:39:49.655Z'
 description: ''
 via: {}
 inFeed: true
 publisher: {}
-dateModified: '2017-09-10T18:48:52.260Z'
+dateModified: '2017-09-10T19:39:48.815Z'
 sourcePath: _posts/2016-11-29-webwinkel-verzameling.md
 title: ''
 hasPage: true
@@ -17,7 +17,7 @@ _type: Article
 ---
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/e4f5c7a1-5645-4150-88af-80872fdd68a7.jpg)
 
-<iframe src="https://the-grid.github.io/ed-userhtml/?g=eJy9Vl1r2zAUfc-v0Az1W-KPJF2bRCndurFB9_GQh-0pXEs3togkG1nB7b-fbMdhhQbKiAZG8jX43nPOvUdo9e7hx8fN75-fSGGVXI9Ww4bA16PRCkhhcEeDwtpqEUVN00zupcgggwkrVUAsmBwtDbaZBL0P1iuhclIb9uKPrFRg7ETL6KuCHOtI82wr-ldbYG4Ejxqh9yg1gIqGApXOAwLSZf-y-fZI7MGWRoAMSG2fJdKgEdwWiySOq6dlgSIvbBsQF2Wl4WgW8dIBimBNzhBhWHNhkLXQ_FABV2J8rOGTjmUTa4CjW9gezUSjje4YTebXszgEVS0VvUnm6c1tFwBNptP310kXGNptB-qtmfhUGaxr7_10qdFosNiCs04Aa-ltPNsm6bbnuz0Svko_e2r3CYFvrhmCHYsOmRcmQ_6L8ThHgxVWojf_DfnfSCP9m0b6NhpnrJems3h6tF6SvmY73TTjjB_N99pIEoOSBrrclVKWTbB-QK1FzRFke_aSS-jDTykvYM_5v2nU6zNoc9Kl18THUPwP0rWDVjlQGk1lytyAUuBwdp2LmBRs3693FU1CSw9GhjWdTZM43NHNr8fQfaBtnqvpvZPBPT3P7v9Qg0L6oZTj78gbzDxZx-V3xXyORYuKoXZTIatS6BabFyovalzyRHMi8Wd3W4r6W9MfoHkoMw" height="200" style=""></iframe>
+<iframe src="https://the-grid.github.io/ed-userhtml/?g=eJy1lt9v2jAQx9_5K7xIzRvkB9C1gKm6ddMmde0eeNie0CU-EgvbiZxDaf_7OQGqVQKpD1iK7Fwkf-_7OfsiLz49PH9d_f39jZWk1XKwOE4IYjkYLICVFjc8KInqWRS1bTu6VzKDDEZ5pQNGYAskHqwzBWYbLBdSF6yx-bsVWaXB0sio6KeGApvIiGwt969UYmGliFpptqgMgI6OCWpTBAyUU_-x-vXIaEeVlaAC1tCrQh60UlA5S-K4fpmXKIuSuoC5KKusQDuL585QBEt2BiTHRkiLeWfNDwq4FMNDDp84lI_IgkA35Fu0I4MU3eU8mV5P4hB0Pdf8JpmmN7d9ADwZjz9fJ31geT_tuLfNxJfaYtN4308njdYAYWeOXAGI-G08WSfpes-7PgBfpd89bfebA9-sGQINZe_MC8lR_2Ic5zDykhR667-j_gcx0v8x0o9hnGm9NJ3E40PrJemptjNtO8zEoflOHUlmUfHAVJtKqaoNlg9ojGwEgur-vewS9RFvkhdoz-npGjXOWu1MGbS1rQoLWoPz2UNEuZL5dj_e1TwJie-sChs-GSdxuOGrP4-h-8A7navxvauSe_ac_frQgEb-pVLDJxQtZp5OkdN3ybxV6OAqR-MOkaoraTpvXlDe5bhkc7siiVd3cYj2F4h_E7HWMw" height="200" style=""></iframe>
 
 [Campusshop][0]
 [Centralpoint][1]
