@@ -1,10 +1,10 @@
 ---
-datePublished: '2017-09-10T18:44:49.607Z'
+datePublished: '2017-09-10T18:48:52.898Z'
 description: ''
 via: {}
 inFeed: true
 publisher: {}
-dateModified: '2017-09-10T18:44:49.050Z'
+dateModified: '2017-09-10T18:48:52.260Z'
 sourcePath: _posts/2016-11-29-webwinkel-verzameling.md
 title: ''
 hasPage: true
@@ -17,7 +17,7 @@ _type: Article
 ---
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/e4f5c7a1-5645-4150-88af-80872fdd68a7.jpg)
 
-<iframe src="https://the-grid.github.io/ed-userhtml/?g=eJzVVk2L2zAQvedXuIb1Lf5Kst1NoizbbksL249DDu0pjKWJLSLLRp7g3X9f2U5CCxtYSlQoGMlj0Mx7b-YZLd88fHu__vn9g1dQqVaj5XFDEKvRaAleYXDL_IKonkdR27bhvZIZZBDyqvQ9ApMjMX-TKdA7f7WUZe41hv9xIqtKMBRqFX0uIccm0iLbyOGVCsyNFFEr9Q6VBiijY4Fa574Hymb_tP7y6NGeKiNB-V5DzwqZ30pBxTyJ4_ppUaDMC-oCz0ZZZQSaebywgCJYeWeIcGyENMg7aG6ogC0xPtRwSYd4SAYE2oXv0IQaKbrjLJldT-MAynpRsptklt7c9gGwZDJ5e530gWH9tmfOmolPtcGmcd5PmxqNBsIOHFkBiNhtPN0k6WbguzkQvko_Omr3CYFrrhkCjWWPzAmTY_6L8ThHgxek0Jn_jvlfSSP9nUb6OhpnrJem03hysF6SvmQ73bbjTBzM99JIegYV83W1rZSqWn_1gFrLRiCo7t_bo7mERuKU9gIWnf2dToNGR31O2gy6uBiMf0G6sdBqC0qjqU2VGyhLsDj77kVcSb4b1ruaJQGxvVFBw6aTJA62bP3jMbAfWJfnanJvZbDPwLM_H2gokb2r1PgrihYzR_ax-W0xl2PRoeKo7VSoupK6w_Z_XCosFauPeLYmjIZL0y-sJiaw" height="200" style=""></iframe>
+<iframe src="https://the-grid.github.io/ed-userhtml/?g=eJy9Vl1r2zAUfc-v0Az1W-KPJF2bRCndurFB9_GQh-0pXEs3togkG1nB7b-fbMdhhQbKiAZG8jX43nPOvUdo9e7hx8fN75-fSGGVXI9Ww4bA16PRCkhhcEeDwtpqEUVN00zupcgggwkrVUAsmBwtDbaZBL0P1iuhclIb9uKPrFRg7ETL6KuCHOtI82wr-ldbYG4Ejxqh9yg1gIqGApXOAwLSZf-y-fZI7MGWRoAMSG2fJdKgEdwWiySOq6dlgSIvbBsQF2Wl4WgW8dIBimBNzhBhWHNhkLXQ_FABV2J8rOGTjmUTa4CjW9gezUSjje4YTebXszgEVS0VvUnm6c1tFwBNptP310kXGNptB-qtmfhUGaxr7_10qdFosNiCs04Aa-ltPNsm6bbnuz0Svko_e2r3CYFvrhmCHYsOmRcmQ_6L8ThHgxVWojf_DfnfSCP9m0b6NhpnrJems3h6tF6SvmY73TTjjB_N99pIEoOSBrrclVKWTbB-QK1FzRFke_aSS-jDTykvYM_5v2nU6zNoc9Kl18THUPwP0rWDVjlQGk1lytyAUuBwdp2LmBRs3693FU1CSw9GhjWdTZM43NHNr8fQfaBtnqvpvZPBPT3P7v9Qg0L6oZTj78gbzDxZx-V3xXyORYuKoXZTIatS6BabFyovalzyRHMi8Wd3W4r6W9MfoHkoMw" height="200" style=""></iframe>
 
 [Campusshop][0]
 [Centralpoint][1]
