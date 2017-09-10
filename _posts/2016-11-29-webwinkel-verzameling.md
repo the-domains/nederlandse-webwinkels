@@ -1,10 +1,10 @@
 ---
-datePublished: '2017-09-10T18:30:12.449Z'
+datePublished: '2017-09-10T18:44:49.607Z'
 description: ''
 via: {}
 inFeed: true
 publisher: {}
-dateModified: '2017-09-10T18:30:11.440Z'
+dateModified: '2017-09-10T18:44:49.050Z'
 sourcePath: _posts/2016-11-29-webwinkel-verzameling.md
 title: ''
 hasPage: true
@@ -17,7 +17,7 @@ _type: Article
 ---
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/e4f5c7a1-5645-4150-88af-80872fdd68a7.jpg)
 
-<iframe src="https://the-grid.github.io/ed-userhtml/?g=eJzVlltr2zAUx9_zKTxD_RZfk65NopTuxgZdt4c8bE_mWD61RSTZyCe4_faT7aas0EBh1cPASD4GHf1_52Jp8-7Tj4-73z8_ezUpuZ1tjhNCuZ3NNuDVBu-YXxO1qyjq-z68lqKAAkLeKN8jMBUS8_NCgt77241QldcZ_mxF0SgwFGoZfVNQYRfpssjF9Eo1VkaUUS_0HqUGUNFxg1ZXvgfSev-6-37j0YEaI0D6XkcPEpnfi5LqVRLH7f26RlHVNBietYrGlGhW8doKimDrnQDh2JXCIB-kuUEBu8X8cQ-XOMRDMlCiHfgeTaiRoivOkuX5Ig5AtWvFLpJlenE5GsCSLHt_noyGYeN0YM6Sifetwa5znk_rGo0GwkEc2QAQsct4kSdpPvHmj8Bn6RdH6X5S4Jq1QKC5GJU5ITn6fzOOUxi8JonO-u_o_5UY6d8Y6eswTrRemi7iLFAsSYOndjNM9_28KIPDWIJOgBs5tz_mf8_b8mXgzspqrSCNpjVNZUApsBrlcBpEXAq-n8arliUBsYORQccWWRIHd2z36yawH9jg5yy7tiGwz8Q4rg80KGQfLMEtlj0Wjkri7SP0Ymlz1LYkZNsIPYj7P05Ki2IDVD7YG0A03QT-AIYiwQk" height="200" style=""></iframe>
+<iframe src="https://the-grid.github.io/ed-userhtml/?g=eJzVVk2L2zAQvedXuIb1Lf5Kst1NoizbbksL249DDu0pjKWJLSLLRp7g3X9f2U5CCxtYSlQoGMlj0Mx7b-YZLd88fHu__vn9g1dQqVaj5XFDEKvRaAleYXDL_IKonkdR27bhvZIZZBDyqvQ9ApMjMX-TKdA7f7WUZe41hv9xIqtKMBRqFX0uIccm0iLbyOGVCsyNFFEr9Q6VBiijY4Fa574Hymb_tP7y6NGeKiNB-V5DzwqZ30pBxTyJ4_ppUaDMC-oCz0ZZZQSaebywgCJYeWeIcGyENMg7aG6ogC0xPtRwSYd4SAYE2oXv0IQaKbrjLJldT-MAynpRsptklt7c9gGwZDJ5e530gWH9tmfOmolPtcGmcd5PmxqNBsIOHFkBiNhtPN0k6WbguzkQvko_Omr3CYFrrhkCjWWPzAmTY_6L8ThHgxek0Jn_jvlfSSP9nUb6OhpnrJem03hysF6SvmQ73bbjTBzM99JIegYV83W1rZSqWn_1gFrLRiCo7t_bo7mERuKU9gIWnf2dToNGR31O2gy6uBiMf0G6sdBqC0qjqU2VGyhLsDj77kVcSb4b1ruaJQGxvVFBw6aTJA62bP3jMbAfWJfnanJvZbDPwLM_H2gokb2r1PgrihYzR_ax-W0xl2PRoeKo7VSoupK6w_Z_XCosFauPeLYmjIZL0y-sJiaw" height="200" style=""></iframe>
 
 [Campusshop][0]
 [Centralpoint][1]
