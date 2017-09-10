@@ -1,10 +1,10 @@
 ---
-datePublished: '2017-09-10T21:25:18.924Z'
+datePublished: '2017-09-10T21:33:02.804Z'
 description: ''
 via: {}
 inFeed: true
 publisher: {}
-dateModified: '2017-09-10T21:25:18.383Z'
+dateModified: '2017-09-10T21:33:02.019Z'
 sourcePath: _posts/2016-11-29-webwinkel-verzameling.md
 title: ''
 hasPage: true
@@ -17,7 +17,7 @@ _type: Article
 ---
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/e4f5c7a1-5645-4150-88af-80872fdd68a7.jpg)
 
-<iframe src="https://the-grid.github.io/ed-userhtml/?g=eJy1VltvmzAUfs-vYEjlLVyTtrk4Vddu2qSu20MetqfI2CdgxRjLdkT672sIqejUTJkEErI5CJ_v4sPBy0-PPx_Wf359cXJT8NVoeZoA09VotMROrmCL3NwYOQ-Cqqr8ewKaMgXE-IK7jsEqA4PcTcqx2LmrJSsyRyvybk1aFljV7wffC5yBDgRNN-x4a3LIFKNBxcQOuMC4CLCFGLcYUmSug7lF-Lb-8eSYvSkVwxZYmxcOyK0YNfk8CkN5WOTAstzUgWOjtFQU1DxcWFIBXjln5HCW4hT7pCyGEXMCGFKIIb5RmIIdyA6UL8AEdwRF0-tJ6OFCLgp0G03j21kTYBQlyc111AQKNdMeDaYeDlKB1oPvpE0NSmADNTljDTAGzcLJJoo3R72bVvBV_HWgun1jMLTWFLAZs4bZIEpO-XvTcU4GyQ2HwRrJKf-FMuKujPhyGcTW1V7rvJRt6TFB4eBjLQ91EcZJMrvplOFzVY2J_kcxOgo4ckW5LTkvK4v80AVYOX1Y0-E88CYTELYvcVky0dBrm1Rrksxl7dE0mfzlEKX_5dB7kJ486iYd0KUz7TuOJ2HStu8o_qh1d3zaX-bTIwjBNAXM6z9eLx8ZfUvZQ4-ffmySttSkJSVASVVmChcFtjwbEQHhjOyO451EkWfQXnFPo0kShd4WrX8_efYBqvNcJffWJnsddTbrPYELQJ9LPn4GWkE6UCuy-S1Ynw6NljYrfbHHteB4bHsF-LxVRw" height="200" style=""></iframe>
+<iframe src="https://the-grid.github.io/ed-userhtml/?g=eJy1VltvmzAUfs-vYEjlLVyTtrk4Vddu2qSu20MetqfI2CdgxRjLdkT672sIqejUTJkEErI5CJ_v4sPBy0-PPx_Wf359cXJT8NVoeZoA09VotMROrmCL3NwYOQ-Cqqr8ewKaMgXE-IK7jsEqA4PcTcqx2LmrJSsyRyvybk1aFljV7wffC5yBDgRNN-x4a3LIFKNBxcQOuMC4CLCFGLcYUmSug7lF-Lb-8eSYvSkVwxZYmxcOyK0YNfk8CkN5WOTAstzUgWOjtFQU1DxcWFIBXjln5HCW4hT7pCyGEXMCGFKIIb5RmIIdyA6UL8AEdwRF0-tJ6OFCLgp0G03j21kTYBQlyc111AQKNdMeDaYeDlKB1oPvpE0NSmADNTljDTAGzcLJJoo3R72bVvBV_HWgun1jMLTWFLAZs4bZIEpO-XvTcU4GyQ2HwRrJKf-FMuKujPhyGcTW1V7rvJRt6TFB4eBjLQ91EcZJMrvplOFzVY2J_kcxOgo4ckW5LTkvK4v80AVYOX1Y0-E88CYTELYvcVky0dBrm1Rrksxl7dE0mfzlEKX_5dB7kJ486iYd0KUz7TuOJ2HStu8o_qh1d3zaX-bTIwjBNAXM6z9eLx8ZfUvZQ4-ffmySttSkJSVASVVmChcFtjwbEQHhjOyO451EkWfQXnFPo0kShd4WrX8_efYBqvNcJffWJnsddTbrPYELQJ9LPn4GWkE6UCuy-S1Ynw6NljYrfbHHteB4bHsF-LxVRw" height="300" style=""></iframe>
 
 [Campusshop][0]
 [Centralpoint][1]
