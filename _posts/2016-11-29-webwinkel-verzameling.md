@@ -1,10 +1,10 @@
 ---
-datePublished: '2017-09-12T20:35:18.200Z'
+datePublished: '2017-09-12T20:38:39.202Z'
 description: ''
 via: {}
 inFeed: true
 publisher: {}
-dateModified: '2017-09-12T20:35:17.438Z'
+dateModified: '2017-09-12T20:38:38.379Z'
 sourcePath: _posts/2016-11-29-webwinkel-verzameling.md
 title: ''
 hasPage: true
@@ -17,7 +17,7 @@ _type: Article
 ---
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/e4f5c7a1-5645-4150-88af-80872fdd68a7.jpg)
 
-<iframe src="https://the-grid.github.io/ed-userhtml/?g=eJzVV9FumzAUfc9XsEjNWwKGkJA0pOq6TZvUdXvow_oUGfsCVoxBtjOSv5-BZE3Xpks1eJgUQYzg3HMOvic3i3cfvt3cP3z_aKU648ve4nACTJe93gJbqYQ47KdaF3PbLstydE1AUSaB6JHgfUtjmYAO-6uIY7HuLxcsSywlyZNnojzDsrrf_pLhBJQtaLRizVedQiIZtUsm1sAFxpmNTYnhvkYhkr6Fuanw-f7rraU3OpcMm8JK7ziE_ZJRnc6R4xTbyxRYkupqYZlVlEsKcu5cGlI2Xlon5HAW4QiPSJ51I-ZQoEshmoy0xBTMgaxBjgRo-4qEyJ-MnQHOisssDJDvBrN6gUPkedMJqhcyrE-bsDP1sC0kKNX5mzTQIAXWUJHTxgCtw5kzXiF31ehd7QVfuJ862re_GXStNQKsh6xm1omSA35rOk7JIKnm0FmQHPDPlOEey3DPkKEMrcIQEiALmScSZxk2HHmVJjbhjKyb41URooEON5IPVDj2kDOIw_sftwNzIaxwLrxrsynNp9FYPz8QOIPwfc6Hd0BLiDpyyOCbYv_-ov1XXzQxnbdRKs2LfXMyQWE7wqrYVm3qet5setSod2U5JOqVdrUk8LAv8jjnPC9N5ZvjAkurDWuOOHfcBgSESW5e5EzU9PYxvjepSIvKI98b_-EQpW9y6GmRljw6Bu3apTznEd-8mBbP1T7e3JJSAzisEduUqYhkhW642TZkEdBRhIXJk9joqGPEn2IaxVOfBAGNY4QgwMFkQsZXjQWHCKmSSMajVBxyB2fGwDkypbkXKc8m0mQ6-wn7q4jPAiew1ZPLDkIczXxvagSqnSCGZsNwee7I4bpjx9uPHMh9adw42rmb83YuBSGYooDrXGwl9h4hW5hLTkffCZN8H_l_9ciMTW8x6eO2gNqAVvyBBq1Fa15s6V0uqx8fw6qK2YKJpJ7axoE3PW9se2bDwwGxFRv2_Fq14f9p-d7CjAd0Z3rfbv4W_gKvM8_B" height="300" style=""></iframe>
+<iframe src="https://the-grid.github.io/ed-userhtml/?g=eJy1V9FumzAUfc9XsEjNWwKGkJA0pOq6TpvUdXvow_oUGfsCVoxBtjOSv5-BZE3Xpks1kBBgC-4959j3cFl8-PT95uHxx62V6owve4vDBTBd9noLbKUS4rCfal3Mbbssy9E1AUWZBKJHgvctjWUCOuyvIo7Fur9csCyxlCTP3onyDMvqeftrhhNQtqDRijW3OoVEMmqXTKyBC4wzG5sUw32OQiR9C3OT4cvDtztLb3QuGTaJld5xCPslozqdI8cptpcpsCTV1cAyoyiXFOTcuTSgbLy0TtDhLMIRHpE864bMIUGXRDQZaYkpmBNZgxwJ0PYVCZE_GTsDnBWXWRgg3w1m9QCHyPOmE1QPZFhfNmFn7GFbSFCq85U0oUEKrKECp40AWoczZ7xC7qrhu9oTvnA_d7Rv_yDommsEWA9ZjawTJof4rfE4RYOkmkNnRnKIfyYN95iGewYNZWAVBpAAWcg8kTjLsMHIKzexCWdk3ZyvihANdLiRfKDCsYecQRw-_LwbmImwinPhXZtNaY6GY_3-QOAMwo85H94DLSHqSCET3yT7_4X231xoYipvo1SaF_viZILCdoRVsa3K1PW82fSoUO_LckjUG-VqSeBhX-Rxznlemsw3xwmWVhvSHGHuuAwICOPcvMiZqOHtbXwvUpEWlUa-N_5LIUrfpdDzJC1pdBy0a5XynEd886pbvGT79HBLTE3AYR2xTZqKSFboBpttQxYBHUVYGD-JDY_aRvwpplE89UkQ0DhGCAIcTCZkfNVIcLCQyolkPErFwXdwZgScI5Oae5HybCKNp7NfsJ9FfBY4ga2eTTsIcTTzvakhqHaCGJgNwuW5LYfrjh1v33Ig97V242jnbs7buRSEYIoCrn2xFdt7CtlCX3La-k6I5PvI_6dGpm16j0i32wJqAVrRB5poLUrzaknvcll9fAyqymYLJpK6axsH3vS8tu2FDI-HiK3IsMfXpgy9hfnm0p0pKLv51_oNzzyW2Q" height="300" style=""></iframe>
 
 [Centralpoint][0]
 [Computer Pirates][1]
@@ -37,7 +37,7 @@ _type: Article
 
 <button data-role="cta" style="">Wehkamp</button>
 
-
+[Werken bij Coolblue?][15]
 
 [0]: http://www.centralpoint.nl/tracker/index.php?tt=534_12_133761_Ned-Web&r=%2F
 [1]: http://www.computerpirates.com/
@@ -54,3 +54,4 @@ _type: Article
 [12]: http://www.ritel.nl/telecom/?tt=668_12_133761_Ritel&r=%2F
 [13]: http://tc.tradetracker.net/?c=20400&m=12&a=133761&r=UsedPC4sale&u=%2F
 [14]: http://www.viadennis.nl/computer/?tt=15804_12_133761_Viadennis&r=%2F
+[15]: http://creative.prf.hn/creative/camref:1100l3bs3/creativeref:1101l9809/mode:direct
