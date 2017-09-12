@@ -1,11 +1,10 @@
 ---
-datePublished: '2017-09-12T19:16:10.015Z'
-description: >-
-  http://prf.hn/click/camref:1100l3bs3/destination:http%3A%2F%2Fwww.werkenbijcoolblue.nl
+datePublished: '2017-09-12T19:27:26.961Z'
+description: ''
 via: {}
 inFeed: true
 publisher: {}
-dateModified: '2017-09-12T19:16:08.693Z'
+dateModified: '2017-09-12T19:27:25.780Z'
 sourcePath: _posts/2016-11-29-webwinkel-verzameling.md
 title: ''
 hasPage: true
@@ -42,8 +41,7 @@ _type: Article
 <button data-role="cta" style="">Wehkamp</button>
 
 [Yorcom][18]
-
-http://prf.hn/click/camref:1100l3bs3/destination:http%3A%2F%2Fwww.werkenbijcoolblue.nl
+![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/8bef4cab-461f-4694-b50d-a3a069b90719.png)
 
 [0]: http://www.campusshop.nl/tt/index.aspx?tt=23397_12_133761_Campusshop&r=%2F
 [1]: http://www.centralpoint.nl/tracker/index.php?tt=534_12_133761_Ned-Web&r=%2F
