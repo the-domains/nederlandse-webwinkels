@@ -1,10 +1,10 @@
 ---
-datePublished: '2017-09-12T21:45:27.565Z'
+datePublished: '2017-09-12T21:55:42.255Z'
 description: ''
 via: {}
 inFeed: true
 publisher: {}
-dateModified: '2017-09-12T21:45:25.723Z'
+dateModified: '2017-09-12T21:55:40.980Z'
 sourcePath: _posts/2016-11-29-webwinkel-verzameling.md
 title: ''
 hasPage: true
@@ -17,7 +17,7 @@ _type: Article
 ---
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/e4f5c7a1-5645-4150-88af-80872fdd68a7.jpg)
 
-<iframe src="https://the-grid.github.io/ed-userhtml/?g=eJy1V11vmzAUfedXMKTmLeEr9COJU3Xdpk3quj30YX2KjH0LVoxtGWekmvbfZz6yplvbpRpEEWAL7j3nmHOvWbx59-Xy5vbrezc3BV86i90JMF06zqI09xyWDmXf3R-Oa38F3o4rRk0-c8MkCNR23kznwLLc2LmHqXmKyTrTciPomEgu9cxVsqKgU76BufPTWfhd9AV2cw13yMuNUTPfr6pqckGgpEwDMRPBPddgnYFB3irlWKy95YIVmVtq8uiZVBZY1_f7nwqcQekLmq5Ye2lyyDSjfsXEGrjAuPCxTTHuciiReS7mNsPHm89XrtkYqRm2iRuIyGspt-w6rnbg2lEqteU0C-YWlI-XrvM0Hc5SnOIJkcUwZHYJhiRiyMRoTMEeyBr0RIDxzwkKk-NpMMKFmhfoNEyi07NmgFEYxyfHYTPQqDlt0GDsYas0lOXgK2lDgxbYQA3OWAGMQWfBdBVGq5bvqiN8FH0Y6L39jWBorilgM2YNskGY7OL3xuM5GiQ3HAYrJLv4B9KI9mlEB9AoLSxlAQnQSstM46LAFiOvq4lPOCPr9niuUDgyaKP5qETTOAxGd-jm29XITqA6zlF8YV9K-285Ns-PBC4AvZV8fA20gnQghWx8m-z_Fzp5caGJdd6mLHOpOnMyQWE7waXa1jaN4vjsZM-o11U1JuULdnU1cOQJeSc5l5XNfLmfYOn2Ic0e5oFtQEDYys2VZKKB15XxTiSVq1qjJJ7-oRClr1LocZKeNNoP2qNKh3a4KJoGcdfhwuip7rYn1OYwoSgIwUoKuLFhLy57CNlDG3zeac-IlCRh8k-NbJd-jUjvtwoaAXrRB9poPUrzpM_upa5rnUVVu1oxkTWbhOlpfHLYLuEvGW53EXuRocPXqwy2wtN7u5P32--HXwesLY4" height="300" style=""></iframe>
+<iframe src="https://the-grid.github.io/ed-userhtml/?g=eJy1V11vmzAUfedXMKTmLeEr9COJU3Xdpk3quj30YX2KjH0LVoxtGWekmvbfZz6yplvbpRpEEWAL7j3nmHOvWbx59-Xy5vbrezc3BV86i90JMF06zqI09xyWDmXf3R-Oa38F3o4rRk0-c8MkCNR23kznwLLc2LmHqRSTdablRtAxkVzqmZvyDcydn87C78IusJtruENeboya-X5VVZMLAiVlGoiZCO65BusMDPJWKcdi7S0XrMjcUpNHz6SywLq-3_9U4AxKX9B0xdpLk0OmGfUrJtbABcaFj22KcZdDicxzMbcZPt58vnLNxkjNsE3cQERey7Wl1ZG0A9eOUqkp6Fkwt6B8vHSdp-lwluIUT4gshiGzSzAkEUMmRmMK9kDWoCcCjH9OUJgcT4MRLtS8QKdhEp2eNQOMwjg-OQ6bgUbNaYMGYw9bpaEsB19JGxq0wAZqcMYKYAw6C6arMFq1fFcd4aPow0Dv7W8EQ3NNAZsxa5ANwmQXvzcez9EgueEwWCHZxT-QRrRPIzqARmlhKQtIgFZaZhoXBbYYeV1NfMIZWbfHc4XCkUEbzUclmsZhMLpDN9-uRnYC1XGO4gv7Utp_y7F5fiRwAeit5ONroBWkAylk49tk_7_QyYsLTazzNmWZS9WZkwkK2wku1ba2aRTHZyd7Rr2uqjEpX7Crq4EjT8g7ybmsbObL_QRLtw9p9jAPbAMCwlZuriQTDbyujHciqVzVGiXx9A-FKH2VQo-T9KTRftAeVTq0w0XRNIi7DhdGT3W3PaE2hwlFQQhWUsCNDXtx2UPIHtrg8057RqQkCZN_amS79GtEer9V0AjQiz7QRutRmid9di91XessqtrVioms2SRMT-OTw3YJf8lwu4vYiwwdvl5lsBWe3tudvN9-OPwC3O8qwg" height="300" style=""></iframe>
 
 [Centralpoint][0]
 [Computer Pirates][1]
