@@ -1,10 +1,10 @@
 ---
-datePublished: '2017-09-12T19:27:26.961Z'
+datePublished: '2017-09-12T19:44:53.210Z'
 description: ''
 via: {}
 inFeed: true
 publisher: {}
-dateModified: '2017-09-12T19:27:25.780Z'
+dateModified: '2017-09-12T19:44:52.186Z'
 sourcePath: _posts/2016-11-29-webwinkel-verzameling.md
 title: ''
 hasPage: true
@@ -28,20 +28,19 @@ _type: Article
 [Invender][6]
 [Magix][7]
 [Medion][8]
-[Misco][9]
-[Muizenshop][10]
-[Norrod][11]
-[Otto][12]
-[Paradigit][13]
-[Replacedirect][14]
-[Ritel][15]
-[UsedPC4Sale][16]
-[Viadennis][17]
+[Norrod][9]
+[Otto][10]
+[Paradigit][11]
+[Replacedirect][12]
+[Ritel][13]
+[UsedPC4Sale][14]
+![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/d348fcd9-2ed6-4dce-a526-34b3a777006c.png)
+[Viadennis][15]
 
 <button data-role="cta" style="">Wehkamp</button>
 
-[Yorcom][18]
-![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/8bef4cab-461f-4694-b50d-a3a069b90719.png)
+[Yorcom][16]
+![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/19ad72d9-9c0a-401b-8936-d5b337586f7c.png)
 
 [0]: http://www.campusshop.nl/tt/index.aspx?tt=23397_12_133761_Campusshop&r=%2F
 [1]: http://www.centralpoint.nl/tracker/index.php?tt=534_12_133761_Ned-Web&r=%2F
@@ -52,13 +51,11 @@ _type: Article
 [6]: http://www.invender.nl/ttiv/index.php?tt=352_12_133761_Invender&r=%2F
 [7]: http://www.magix.com/ap/tradetracker/?tt=2074_12_133761_Magix&r=%2F
 [8]: http://tc.tradetracker.net/?c=3452&m=12&a=133761
-[9]: http://www.misco.nl/
-[10]: http://www.muizenshop.nl/
-[11]: http://www.norrod.nl/tt/index.aspx?tt=23396_12_133761_Norrod&r=%2F
-[12]: http://www.otto.nl/
-[13]: http://www.paradigit.nl/tt/index.aspx?tt=5043_12_133761_Paradigit&r=%2F
-[14]: http://www.replacedirect.nl/
-[15]: http://www.ritel.nl/telecom/?tt=668_12_133761_Ritel&r=%2F
-[16]: http://tc.tradetracker.net/?c=20400&m=12&a=133761&r=UsedPC4sale&u=%2F
-[17]: http://www.viadennis.nl/computer/?tt=15804_12_133761_Viadennis&r=%2F
-[18]: http://www.yorcom.nl/shopping/?tt=4837_12_133761_Rapportagened.webw&r=%2F
+[9]: http://www.norrod.nl/tt/index.aspx?tt=23396_12_133761_Norrod&r=%2F
+[10]: http://www.otto.nl/
+[11]: http://www.paradigit.nl/tt/index.aspx?tt=5043_12_133761_Paradigit&r=%2F
+[12]: http://www.replacedirect.nl/
+[13]: http://www.ritel.nl/telecom/?tt=668_12_133761_Ritel&r=%2F
+[14]: http://tc.tradetracker.net/?c=20400&m=12&a=133761&r=UsedPC4sale&u=%2F
+[15]: http://www.viadennis.nl/computer/?tt=15804_12_133761_Viadennis&r=%2F
+[16]: http://www.yorcom.nl/shopping/?tt=4837_12_133761_Rapportagened.webw&r=%2F
