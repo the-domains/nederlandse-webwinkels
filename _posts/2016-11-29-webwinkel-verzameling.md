@@ -1,10 +1,10 @@
 ---
-datePublished: '2017-09-12T19:47:44.099Z'
+datePublished: '2017-09-12T20:01:32.853Z'
 description: ''
 via: {}
 inFeed: true
 publisher: {}
-dateModified: '2017-09-12T19:47:42.716Z'
+dateModified: '2017-09-12T20:01:31.062Z'
 sourcePath: _posts/2016-11-29-webwinkel-verzameling.md
 title: ''
 hasPage: true
@@ -34,13 +34,11 @@ _type: Article
 [Replacedirect][12]
 [Ritel][13]
 [UsedPC4Sale][14]
-![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/d348fcd9-2ed6-4dce-a526-34b3a777006c.png)
 [Viadennis][15]
 
 <button data-role="cta" style="">Wehkamp</button>
 
-[Yorcom][16]
-![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/19ad72d9-9c0a-401b-8936-d5b337586f7c.png)
+![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/2b643592-9e1c-4c79-b7df-86f8b5eb3bf5.png)
 
 [0]: http://www.campusshop.nl/tt/index.aspx?tt=23397_12_133761_Campusshop&r=%2F
 [1]: http://www.centralpoint.nl/tracker/index.php?tt=534_12_133761_Ned-Web&r=%2F
@@ -58,4 +56,3 @@ _type: Article
 [13]: http://www.ritel.nl/telecom/?tt=668_12_133761_Ritel&r=%2F
 [14]: http://tc.tradetracker.net/?c=20400&m=12&a=133761&r=UsedPC4sale&u=%2F
 [15]: http://www.viadennis.nl/computer/?tt=15804_12_133761_Viadennis&r=%2F
-[16]: http://www.yorcom.nl/shopping/?tt=4837_12_133761_Rapportagened.webw&r=%2F
