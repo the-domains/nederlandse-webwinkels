@@ -1,10 +1,10 @@
 ---
-datePublished: '2017-09-12T20:25:19.584Z'
+datePublished: '2017-09-12T20:33:30.550Z'
 description: ''
 via: {}
 inFeed: true
 publisher: {}
-dateModified: '2017-09-12T20:25:18.801Z'
+dateModified: '2017-09-12T20:33:29.567Z'
 sourcePath: _posts/2016-11-29-webwinkel-verzameling.md
 title: ''
 hasPage: true
@@ -17,7 +17,7 @@ _type: Article
 ---
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/e4f5c7a1-5645-4150-88af-80872fdd68a7.jpg)
 
-<iframe src="https://the-grid.github.io/ed-userhtml/?g=eJy1V11P2zAUfedXZJHoW5uvhhaoixhj2iTG9sDDeKoc-5JYdWzLdpXy73HSdJRBWdESKUriKDn3nGPfe53Zpy8_r-7uf117hS35_Gi2vQCm86OjGfYKDQ_IL6xVZ0FQVdXokoChTAOxI8F9z2Kdg0X-IuNYLP35jJW5ZzR58U0mS6zr94PvJc7BBIJmC7a5tQXkmtGgYmIJXGBcBtiFGLYxlMh9D3MX4dvdjxvPrqzUDLvAxj5yQH7FqC3OojBU6_MCWF7YeuC5USY1BX0WnjtSAZ57e-RwluEMj4gs-xGzDdCnEEtGVmMK7kSWoEcCbHBBUJSejMMBLtV5iaZRGk9PmwFGUZJMTqJmoFFzWaHe1MNaaTCm95l00KAFtlCTs84Aa9FpOF5E8WKjd9EKPo6_9rRu_zDoW2sG2A5Zw6wXJVv8znTsk0EKy6G3QrLFP1BGvCsjPkCGcbSUIyRAKy1zjcsSO468riYB4YwsN-cLhaKBRSvNBwaNkygcPKC73zcD9wDVOMfJpVuU7thobL4fCFwC-iz58BZoBVlPDjl8F-z_Jzp9d6KJy7yVMYVUbXIyQWE9wkat6zSNk-R0spOot1U1JOaddPU0cOQL-SA5l5WLfLUbYO51Yc0O557TgIBwlZsryURDry3jrUmqULVHaTL-yyFKP-TQyyAdebQL2rdLUvKMr96sFq_VPr_ckVIHOGwQe5S5p4_H8ThM2j4exW_18J3lsDpsOVAQghkKuCk2ndSSZ8gOmv3-erLHpDSN0n965PYiHzHpeq2gMaATf2CD1qE1b-bJo9R1RXes6tqlmMibrdB4mkwO2wu9suF-i9iJDS2_LleIa2P00f22BJvflycXIV3d" height="300" style=""></iframe>
+<iframe src="https://the-grid.github.io/ed-userhtml/?g=eJy1V11vmzAUfe-vYJGatwCGkJA0pOq6TpvUdXvow_oUGfsSrBqDbGck_37mI2u6Nl2qgYQAW3DvOce-h8viw6fv1_cPP26sVGd8ebbYXwDT5dnZAluphCQapFoXc8cpy9K-IqAok0C0LfjA0liuQUeDVcyxeBwsFyxbW0qSZ-_EeYZl9bzzNcNrUI6g8Yo1tzqFtWTUKZl4BC4wzhxsUozaHIVYDyzMTYYv999uLb3RuWTYJFZ6xyEalIzqdI5ct9hepMDWqa4GlhnFuaQg5-6FAeXgpXWEDmcxjrFN8qwfMvsEfRLRxNYSUzAn8gjSFqCdSxKhYDJ2hzgrLrIoRIEXzuoBjpDvTyeoHsiovmyi3tjDtpCgVO8raUKDFFhDBU4bAbSOZu54hbxVw3fVEj73Pve0b_8g6JtrDFiPWI2sFyb7-J3xOEaDpJpDb0ayj38iDe-QhncCDWVgFQaQAFnIfC1xlmGDkVdu4hDOyGNzviwiNNTRRvKhisY-codJdP_zdmgmoirOuX9lNqU5Go71-0OBM4g-5nx0B7SEuCeFTHyT7P8XOnhzoYmpvI1SaV60xckEha2NVbGtytTz_dn0oFDvynJE1Bvlakng0UDkSc55XprM14cJllYX0hxg7rkMCAjj3LzImajhtTbeilSkRaVR4I__UojSdyn0PElHGh0G7VulPOcx37zqFi_ZPj3cEVMTcFRH7JKmIpIVusHmOJDFQO0YC-MnieFR20gwxTROpgEJQ5okCEGIw8mEjC8bCfYWUjmRTOxU7H0HZ0bAOTKpuR8r3yHSeDr7Be0s4rPQDR31bNpFiKNZ4E8NQbUTxMBsEC5PbTk8b-z6bcuBvNfajYOduzlt51IQgikKuPbFTmzvKWQHfclx6zsiUhCg4J8ambbpPSLdbAuoBehEH2iidSjNqyW9y2X18TGoKpstmFjXXds49KentW0vZHjYR-xEhhZflzvEfHHpzpST0_xp_Qap15bF" height="300" style=""></iframe>
 
 [Centralpoint][0]
 [Computer Pirates][1]
@@ -36,10 +36,6 @@ _type: Article
 [Viadennis][14]
 
 <button data-role="cta" style="">Wehkamp</button>
-
-<button data-role="cta" style="">Open</button>
-
-    <script src="//embed.bannerflow.com/57adbf75c88dff11e8a866c4?targeturl=http://prf.hn/click/camref:1100l3bs3/creativeref:1101l9808/screativeref:1011l19537" async></script>
 
 
 
