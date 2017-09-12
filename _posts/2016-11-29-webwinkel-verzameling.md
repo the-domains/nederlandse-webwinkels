@@ -1,10 +1,10 @@
 ---
-datePublished: '2017-09-12T20:38:39.202Z'
+datePublished: '2017-09-12T20:52:59.606Z'
 description: ''
 via: {}
 inFeed: true
 publisher: {}
-dateModified: '2017-09-12T20:38:38.379Z'
+dateModified: '2017-09-12T20:52:58.538Z'
 sourcePath: _posts/2016-11-29-webwinkel-verzameling.md
 title: ''
 hasPage: true
@@ -38,6 +38,11 @@ _type: Article
 <button data-role="cta" style="">Wehkamp</button>
 
 [Werken bij Coolblue?][15]
+
+    <script type="text/javascript" src="http://creative.prf.hn/creative/camref:1100l3bs3/creativeref:1101l9808"></script>
+    
+
+
 
 [0]: http://www.centralpoint.nl/tracker/index.php?tt=534_12_133761_Ned-Web&r=%2F
 [1]: http://www.computerpirates.com/
