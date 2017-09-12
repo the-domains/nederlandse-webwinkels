@@ -1,10 +1,10 @@
 ---
-datePublished: '2017-09-12T20:52:59.606Z'
+datePublished: '2017-09-12T20:55:25.447Z'
 description: ''
 via: {}
 inFeed: true
 publisher: {}
-dateModified: '2017-09-12T20:52:58.538Z'
+dateModified: '2017-09-12T20:55:24.741Z'
 sourcePath: _posts/2016-11-29-webwinkel-verzameling.md
 title: ''
 hasPage: true
@@ -39,8 +39,7 @@ _type: Article
 
 [Werken bij Coolblue?][15]
 
-    <script type="text/javascript" src="http://creative.prf.hn/creative/camref:1100l3bs3/creativeref:1101l9808"></script>
-    
+<iframe src="https://the-grid.github.io/ed-userhtml/?g=eJw9jEEKgCAQAL8i-wBX8VJS_WWTjYwKWRep33coOs4MzFCT5KJG78IjKF-KGzV6LZgqaYRVtUTEJEyaG9sii13PnzHRIbxE753bw1zDXz7r975zHUwDvtvpAbp0KK0" height="244" style=""></iframe>
 
 
 
