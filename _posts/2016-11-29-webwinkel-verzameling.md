@@ -1,10 +1,10 @@
 ---
-datePublished: '2017-09-12T20:14:26.460Z'
+datePublished: '2017-09-12T20:16:44.610Z'
 description: ''
 via: {}
 inFeed: true
 publisher: {}
-dateModified: '2017-09-12T20:14:25.693Z'
+dateModified: '2017-09-12T20:16:42.022Z'
 sourcePath: _posts/2016-11-29-webwinkel-verzameling.md
 title: ''
 hasPage: true
@@ -26,7 +26,6 @@ _type: Article
 [Hardware.nl][4]
 [Interngeheugen][5]
 [Invender][6]
-![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/f7e54560-fe1a-4258-9a05-8652e277b2c0.png)
 [Magix][7]
 [Medion][8]
 [Norrod][9]
@@ -39,7 +38,7 @@ _type: Article
 
 <button data-role="cta" style="">Wehkamp</button>
 
-![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/407b9c76-0c7b-43e7-9480-abde468e6131.png)
+![Werken bij Coolblue?](https://the-grid-user-content.s3-us-west-2.amazonaws.com/407b9c76-0c7b-43e7-9480-abde468e6131.png)
 
 [0]: http://www.campusshop.nl/tt/index.aspx?tt=23397_12_133761_Campusshop&r=%2F
 [1]: http://www.centralpoint.nl/tracker/index.php?tt=534_12_133761_Ned-Web&r=%2F
