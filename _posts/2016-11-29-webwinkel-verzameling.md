@@ -1,10 +1,10 @@
 ---
-datePublished: '2017-09-12T20:21:40.758Z'
+datePublished: '2017-09-12T20:22:37.434Z'
 description: ''
 via: {}
 inFeed: true
 publisher: {}
-dateModified: '2017-09-12T20:21:39.931Z'
+dateModified: '2017-09-12T20:22:36.082Z'
 sourcePath: _posts/2016-11-29-webwinkel-verzameling.md
 title: ''
 hasPage: true
@@ -38,7 +38,7 @@ _type: Article
 
 <button data-role="cta" style="">Wehkamp</button>
 
-    <script src="//embed.bannerflow.com/57adbf75c88dff11e8a866c4?targeturl=http://prf.hn/click/camref:1100l3bs3/creativeref:1101l9808/screativeref:1011l19537" async></script>
+<iframe src="https://the-grid.github.io/ed-userhtml/?g=eJxVzkEOgjAQAMCvEB7AdoNAIYBv2S5bIZZCtlXj7z3oxeucZkys25mLpDyVALI7WSpHMYr6cLwqPnZoOlqc7xq2dvEeUSzZtuXLNZPeJD80TGvO5wBwqq_WCBw2vgPTruIHRGNC7VINrEJ5e8pPMfTWWEh_bBAD9k3dlQWld-R5hO9w_gBQVTjf" height="244" style=""></iframe>
 
 
 
