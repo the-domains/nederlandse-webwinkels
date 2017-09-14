@@ -1,10 +1,10 @@
 ---
-datePublished: '2017-09-14T14:47:18.813Z'
+datePublished: '2017-09-14T14:52:31.097Z'
 description: ''
 via: {}
 inFeed: true
 publisher: {}
-dateModified: '2017-09-14T14:47:18.248Z'
+dateModified: '2017-09-14T14:52:30.507Z'
 sourcePath: _posts/2016-11-29-webwinkel-verzameling.md
 title: ''
 hasPage: true
@@ -37,7 +37,7 @@ _type: Article
 
 [Werken bij Coolblue?][13]
 
-<iframe src="https://the-grid.github.io/ed-userhtml/?g=eJwNy0EOwBAQAMDXuFrq5tZL_4GuUNslaHy_krlOmrNZgNajTAyBcigQ3NsxWq2VIuOHgRvHzOxmrmzTDsKc4ri2tZZc2Auyz0-olTx9KJl-EeoeaQ" height="244" style=""></iframe>
+<iframe src="https://the-grid.github.io/ed-userhtml/?g=eJw9j0FrwzAMhe_7FcbQa9wu7JImgV3GBtttl52K7Si2G9kOiorXfz-HwkAHPZ709KnXwhPMg_TMa6fUSnPjk7IY7KKsjtXrTqfjEVuztWqCjUPSHHLq9oVD-3p4fqtVSmkK0ALJhKvNGQ3eoEkoBWtywIO8GNRpkYIAB5nynBFzkWP_k8nmWEfHPkQnNrL_LHuoyVETV1t9RO1gU2kyl_Bo2YOjMKkS0gKYtI7q_khbk5NCYz37_v31KfjGmYKuNBvfEQZZwsS-q2-tv2cPwXnehajKZJqAupdzRVN6fPoD91FkMg" height="244" style=""></iframe>
 
     http://prf.hn/click/camref:1100l3bs3/destination:http%3A%2F%2Fwww.werkenbijcoolblue.nl
 
