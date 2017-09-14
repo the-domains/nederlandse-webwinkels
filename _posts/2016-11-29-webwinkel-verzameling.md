@@ -1,10 +1,10 @@
 ---
-datePublished: '2017-09-14T20:57:00.725Z'
+datePublished: '2017-09-14T21:07:29.155Z'
 description: ''
 via: {}
 inFeed: true
 publisher: {}
-dateModified: '2017-09-14T20:56:59.888Z'
+dateModified: '2017-09-14T21:07:28.652Z'
 sourcePath: _posts/2016-11-29-webwinkel-verzameling.md
 title: ''
 hasPage: true
@@ -17,6 +17,21 @@ _type: Article
 ---
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/e4f5c7a1-5645-4150-88af-80872fdd68a7.jpg)
 [Werken bij Coolblue][0]
+
+    <!DOCTYPE html>
+    <html>
+    <body>
+    
+    <h2>My First JavaScript</h2>
+    
+    <button type="button"
+    onclick="document.getElementById('demo').innerHTML = Date()">
+    Click me to display Date and Time.</button>
+    
+    <p id="demo"></p>
+    
+    </body>
+    </html> 
 
     <script type="text/javascript" src="http://creative.prf.hn/creative/camref:1100l3bs3/creativeref:1011l11083"></script>
 
