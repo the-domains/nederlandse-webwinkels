@@ -1,5 +1,5 @@
 ---
-datePublished: '2017-09-14T22:19:55.531Z'
+datePublished: '2017-09-14T22:19:55.640Z'
 description: ''
 via: {}
 inFeed: true
