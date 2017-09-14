@@ -29,11 +29,11 @@ cta:
   bucket: null
   domain: null
 navigation:
-  - name: Software
-    id: 9fe5b614-baa9-4ca2-8abc-0727747b2bcb
-    type: content
   - name: Hardware
     id: 246d6594-bbb1-4c8e-96cc-06a7607040ba
+    type: content
+  - name: Software
+    id: 9fe5b614-baa9-4ca2-8abc-0727747b2bcb
     type: content
 favicon: null
 collections:
