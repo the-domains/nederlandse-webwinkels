@@ -1,10 +1,10 @@
 ---
-datePublished: '2017-09-14T21:56:15.753Z'
+datePublished: '2017-09-14T21:59:44.528Z'
 description: ''
 via: {}
 inFeed: true
 publisher: {}
-dateModified: '2017-09-14T21:56:14.815Z'
+dateModified: '2017-09-14T21:59:43.953Z'
 sourcePath: _posts/2016-11-29-webwinkel-verzameling.md
 title: ''
 hasPage: true
@@ -20,7 +20,7 @@ _type: Article
 
     <a href="http://prf.hn/click/camref:1100l3bs3/creativeref:1011l11074"><img src="http://prf.hn/source/camref:1100l3bs3/creativeref:1011l11074" width="728" height="90" border="0"/></a>
 
-<iframe src="https://the-grid.github.io/ed-userhtml/?g=eJy1V11vmzAUfedXsEjNW8JXaJs2TtV1nVap6_bQh_UpMvgWrBpjGWekmvbfd_nISrt-pBpEEWAL7j3nmHMvXnz49O3s-ub7uZ2aTCytxfYElC0ta1GYewFLi_Gf9i_Lxl9GN5OSM5Me2V7oumpzXE-nwJPU4NzDlPXbWjjt8wtqpxpuySg1Rh05TlmW09MYCsY1xGYqxcg2VCdgyGgVCSrvRssFzxK70PGjZ6I8o7q637nIaAKFI1m04s2lSSHRnDkll3cgJKWZQzHFpM2hZDKyqcAMX66_XtpmbXLNKSauIZJRQ6rB37LBgY2jKNcM9JF7jKAcurSt5-kIHtGITuM8G4bMNsGQREw8NZoywEN8B3oqwTgnMfHC_Zk7ppk6zsihF_qH83pAiRcEB_tePdCkPq3JYOxhozQUxeAriaFBS2qgAmdQAGPI3J2tPH_V8F21hPf8zwO9t38RDM01AmomvEY2CJNt_N54vEQjTo2AwQrJNv6ONPwuDX8HGgXCUghIglY6TzTNMooYRVVNnFjw-K45nijijQ1ZazEuyCzw3PEtuf5xOcYJUsXZC07xpcR_w7F-fixpBuRjLiZXwEqIBlII42Oy_1_o8NWFjtF566JIc9Wak0sGmykt1KayqR8E84OOUa_KchIXr9jV1iDISOa3uRB5iZnPugmWdh_SdDAPbIMYJFZuoXIua3htGW9FUqmqNAqD2ROFGHuXQo-T9KRRN2iPKu3a4Xx_5gZth_P857pbR6j1bkIxkJIXDGhtw15c9hCyhzb4stNeECkMvfBNjbBLv0ek842CWoBe9IEm2sBFCN9RbM8JpLBOQNY1uv1M8Oeu3zHXxaMbuyaz3tKlyQGmm6UXiZ6AH1iq-1xXXQHBVfVPcZnUOs0Og4Pdvqf-EeZmG7EXNVp8PaqAm54oZ_e453GavdQf8j6Jxw" height="300" style=""></iframe>
+<iframe src="https://the-grid.github.io/ed-userhtml/?g=eJy1V11vmzAUfedXMKTmLeErNB-NU3Vdp1Xquj30YX2KDNyAFWMs2xmppv33mY-stGvaVIMoCrHB555zzL0XFh8-fbu8u_9-ZaYqo0tjsT8AjpeGsZDqgcLSiMlP85dh6k-Gd8OCxCqdm27gOHx3Vk2nQJJU6bnHKeO3sbCb9cYCm6mANbJSpfjctrlYj1JmR5REGzvCmT43d_Vi6ofStyMBWJGfUM06rkv1qcnYWi5IlphSRM9hZL4VERyNY1YCkDXxplbDHFkzxzLDXMQgkOVY9nJh4xd4F0UxuohAxkRApEaMWqbCIgENsAopZpsXSJZrwjzDorzevs5wAtJmcbgi9V-VQiJIbBeEbYAyjDMb6xDDJgZniWViqiN8uft6Y6qtygXBOnDlLbLq3aiNb7ZBD0w9quXMnTOrUmMekENJiEM8ivKsHzH7AH0KUdFICRyD_ok2IEYMlH0eITc4HTsDnPGzDE3dwJvOqgFGru9PTt1qIFB12KLe1MOOC5Cy953U0CAYVlCSU9oApdDMGa9cb1XrXTWCT7zPPd23fxn0rTXUmT0kFbNelOzxO9NxSEaUKgq9FZI9_pEyvLYM7wgZsizCmhADwUWeCJxlWHOkZTXZV_fy95wjd6DQVtCBRGPfdQZrdPfjZqAnUIlz4l_om1J_a43V-gHDGaCPOR3eQlxA2JNDGl8H-_-NDl7daN2b-FbKNOdNchIWw26EJd-Vaer5_mzSStTbohhG8pV0NQVQZLF8nVOaFzryZTvA0uzCmhbnntMgAqYrN-U5YRW9pow3JvGUlx4F_viZQ3H8LoeeBunIozZohy4d2-E8b-z4TYdzvZe6W8uo7XFGxcAYkTHgKg07ybJHyA7a4OFMO2BSELjBmx7pLv0ek652HCoDOvEHarSei5C-R3V7TiCFbQKsqtHNY4I3c7xWcl0_ubCdZMZbvtQxQLWjdGLRM_I9W_WQi7IraHJl_eOEJZVP46k_Oe556h9j7veInbjR8OvQBf22Fubxg375s-uXwD_50sMa" height="300" style=""></iframe>
 
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/d4d8e480-281e-41f8-a31e-4427722137e0.png)
 [Computer Pirates][1]
