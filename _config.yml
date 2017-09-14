@@ -23,6 +23,7 @@ analytics:
 logo: >-
   https://the-grid-user-content.s3-us-west-2.amazonaws.com/eafecbc3-2d73-4db7-b2f5-3fd6de6b694e.jpg
 name: Nederlandse-Webwinkels
+url: 'http://thegrid.ai/nederlandse-webwinkels/'
 cta:
   version: null
   bucket: null
@@ -30,6 +31,9 @@ cta:
 navigation:
   - name: Software
     id: 9fe5b614-baa9-4ca2-8abc-0727747b2bcb
+    type: content
+  - name: Hardware
+    id: 246d6594-bbb1-4c8e-96cc-06a7607040ba
     type: content
 favicon: null
 collections:
@@ -72,4 +76,3 @@ content:
     text: !<tag:yaml.org,2002:js/undefined> ''
 description: De Gouden WebGids
 purpose: []
-url: 'http://thegrid.ai/nederlandse-webwinkels/'
