@@ -1,10 +1,10 @@
 ---
-datePublished: '2017-09-14T14:42:18.613Z'
+datePublished: '2017-09-14T14:42:19.587Z'
 description: ''
 via: {}
 inFeed: true
 publisher: {}
-dateModified: '2017-09-14T14:42:17.960Z'
+dateModified: '2017-09-14T14:42:19.086Z'
 sourcePath: _posts/2016-11-29-webwinkel-verzameling.md
 title: ''
 hasPage: true
