@@ -28,9 +28,6 @@ cta:
   bucket: null
   domain: null
 navigation:
-  - name: Hardware
-    id: eedd3988-adf6-4e6a-b10f-a15f857fe735
-    type: content
   - name: Software
     id: 9fe5b614-baa9-4ca2-8abc-0727747b2bcb
     type: content
