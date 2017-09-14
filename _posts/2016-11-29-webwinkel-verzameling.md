@@ -1,16 +1,16 @@
 ---
-datePublished: '2017-09-14T14:41:02.311Z'
+datePublished: '2017-09-14T14:41:09.427Z'
 description: ''
 via: {}
 inFeed: true
 publisher: {}
-dateModified: '2017-09-14T14:41:01.484Z'
+dateModified: '2017-09-14T14:41:09.240Z'
 sourcePath: _posts/2016-11-29-webwinkel-verzameling.md
 title: ''
 hasPage: true
 author: []
+datePublishedOriginal: '2017-09-14T14:41:09.427Z'
 starred: false
-datePublishedOriginal: '2017-05-13T23:13:37.311Z'
 url: hardware/index.html
 _type: Article
 
