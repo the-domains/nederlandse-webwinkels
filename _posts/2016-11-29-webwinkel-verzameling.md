@@ -1,10 +1,10 @@
 ---
-datePublished: '2017-09-14T20:29:10.000Z'
+datePublished: '2017-09-14T20:32:11.832Z'
 description: ''
 via: {}
 inFeed: true
 publisher: {}
-dateModified: '2017-09-14T20:29:08.054Z'
+dateModified: '2017-09-14T20:32:10.651Z'
 sourcePath: _posts/2016-11-29-webwinkel-verzameling.md
 title: ''
 hasPage: true
@@ -21,7 +21,7 @@ _type: Article
 
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/d4d8e480-281e-41f8-a31e-4427722137e0.png)
 
-    <script type="text/javascript" src="http://creative.prf.hn/creative/camref:1100l3bs3/creativeref:1011l11074"></script>
+    <a href="http://prf.hn/click/camref:1100l3bs3/creativeref:1011l11074"><img src="http://prf.hn/source/camref:1100l3bs3/creativeref:1011l11074" width="728" height="90" border="0"/></a>
 
 [Computer Pirates][0]
 [Hardware.nl][1]
