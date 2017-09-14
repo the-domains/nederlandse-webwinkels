@@ -1,10 +1,10 @@
 ---
-datePublished: '2017-09-14T20:32:11.832Z'
+datePublished: '2017-09-14T20:33:47.591Z'
 description: ''
 via: {}
 inFeed: true
 publisher: {}
-dateModified: '2017-09-14T20:32:10.651Z'
+dateModified: '2017-09-14T20:33:46.951Z'
 sourcePath: _posts/2016-11-29-webwinkel-verzameling.md
 title: ''
 hasPage: true
@@ -21,7 +21,7 @@ _type: Article
 
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/d4d8e480-281e-41f8-a31e-4427722137e0.png)
 
-    <a href="http://prf.hn/click/camref:1100l3bs3/creativeref:1011l11074"><img src="http://prf.hn/source/camref:1100l3bs3/creativeref:1011l11074" width="728" height="90" border="0"/></a>
+<iframe src="https://the-grid.github.io/ed-userhtml/?g=eJyNzEEOwiAQQNGrkDmAA9ak2gB3odNph0htM6Be38alK7f_Jd8nI8pzAGltHxB3nU_yQCqZ7khpPWxwztrSjbVDUk4tv_hbrXPloP4C0ed1MVXpd1O3pxL__THvPDUJ0J-vYITzIi3AzYIZN51YA1jA6DHFDyc7OTY" height="244" style=""></iframe>
 
 [Computer Pirates][0]
 [Hardware.nl][1]
