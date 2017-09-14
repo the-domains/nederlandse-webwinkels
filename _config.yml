@@ -14,7 +14,7 @@ github: true
 opengraph:
   image: null
   type: null
-  appId: null
+  appId: '1836323033060000'
 layout_spectrum: 0.4231663932869819
 analytics:
   twitter: null
@@ -34,8 +34,7 @@ navigation:
   - name: Software
     id: 9fe5b614-baa9-4ca2-8abc-0727747b2bcb
     type: content
-favicon: >-
-  https://the-grid-user-content.s3-us-west-2.amazonaws.com/c6a9806a-1a4b-4b35-8bec-c19c27a403ea.jpg
+favicon: null
 collections:
   - index:
       navigable: true
@@ -76,4 +75,4 @@ content:
     text: !<tag:yaml.org,2002:js/undefined> ''
 description: De Gouden WebGids
 purpose: []
-url: 'https://www.nederlandse-webwinkels/'
+url: 'http://thegrid.ai/nederlandse-webwinkels/'
