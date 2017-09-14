@@ -1,10 +1,10 @@
 ---
-datePublished: '2017-09-14T20:43:26.771Z'
+datePublished: '2017-09-14T20:44:17.584Z'
 description: ''
 via: {}
 inFeed: true
 publisher: {}
-dateModified: '2017-09-14T20:43:26.120Z'
+dateModified: '2017-09-14T20:44:16.744Z'
 sourcePath: _posts/2016-11-29-webwinkel-verzameling.md
 title: ''
 hasPage: true
@@ -39,7 +39,7 @@ _type: Article
 
 <button data-role="cta" style="">Wehkamp</button>
 
-[Werken bij Coolblue?][14]
+[Werken bij Coolblue?][0]
 
 [0]: http://prf.hn/click/camref:1100l3bs3/creativeref:1011l11074
 [1]: http://www.computerpirates.com/
@@ -55,4 +55,3 @@ _type: Article
 [11]: http://www.ritel.nl/telecom/?tt=668_12_133761_Ritel&r=%2F
 [12]: http://tc.tradetracker.net/?c=20400&m=12&a=133761&r=UsedPC4sale&u=%2F
 [13]: http://www.viadennis.nl/computer/?tt=15804_12_133761_Viadennis&r=%2F
-[14]: http://prf.hn/click/camref:1101l3ceu/creativeref:1011l14426
