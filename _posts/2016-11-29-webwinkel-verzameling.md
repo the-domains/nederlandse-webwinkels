@@ -1,10 +1,10 @@
 ---
-datePublished: '2017-09-14T20:44:17.584Z'
+datePublished: '2017-09-14T20:45:49.975Z'
 description: ''
 via: {}
 inFeed: true
 publisher: {}
-dateModified: '2017-09-14T20:44:16.744Z'
+dateModified: '2017-09-14T20:45:49.378Z'
 sourcePath: _posts/2016-11-29-webwinkel-verzameling.md
 title: ''
 hasPage: true
@@ -16,7 +16,7 @@ _type: Article
 
 ---
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/e4f5c7a1-5645-4150-88af-80872fdd68a7.jpg)
-[cc][0]
+[Werken bij Coolblue][0]
 
 <iframe src="https://the-grid.github.io/ed-userhtml/?g=eJyNzEEOwiAQQNGrkDmAA9ak2gB3odNph0htM6Be38alK7f_Jd8nI8pzAGltHxB3nU_yQCqZ7khpPWxwztrSjbVDUk4tv_hbrXPloP4C0ed1MVXpd1O3pxL__THvPDUJ0J-vYITzIi3AzYIZN51YA1jA6DHFDyc7OTY" height="244" style=""></iframe>
 
