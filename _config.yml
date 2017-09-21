@@ -40,9 +40,6 @@ navigation:
   - name: Vergelijkingsites
     id: 05632dc7-4d7c-4a62-8b09-aef0812a4066
     type: content
-  - name: Telecom Providers
-    id: f9b152ff-af99-4a49-af9b-de5e5cf4affb
-    type: content
 favicon: null
 collections:
   - index:
