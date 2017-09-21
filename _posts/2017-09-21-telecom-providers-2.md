@@ -1,8 +1,8 @@
 ---
 inFeed: false
 description: Smartphone + Telecom Providers
-dateModified: '2017-09-21T21:39:17.557Z'
-datePublished: '2017-09-21T21:39:18.531Z'
+dateModified: '2017-09-21T22:22:52.806Z'
+datePublished: '2017-09-21T22:22:53.213Z'
 title: ''
 author: []
 publisher: {}
