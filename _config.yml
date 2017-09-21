@@ -79,3 +79,5 @@ content:
     text: !<tag:yaml.org,2002:js/undefined> ''
 description: De Gouden Webwinkel Gids
 purpose: []
+author:
+  name: Jeroen
