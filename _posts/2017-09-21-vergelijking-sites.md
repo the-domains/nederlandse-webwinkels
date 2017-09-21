@@ -1,20 +1,22 @@
 ---
 inFeed: true
 description: Vergelijking sites
-dateModified: '2017-09-21T09:55:34.720Z'
-datePublished: '2017-09-21T09:55:35.435Z'
+dateModified: '2017-09-21T13:00:10.265Z'
+datePublished: '2017-09-21T13:00:11.480Z'
 title: ''
 author: []
 publisher: {}
 via: {}
+isBasedOnUrl: >-
+  https://the-grid.github.io/ed-userhtml/?g=eJytUMFOwzAMvfMVVe5btwFjSE0lxjSJOz_gpd7mNU2K4xb693isQ3DjgJRD7Pf83rOL5JhayWRo0RrBD8lP0MOla7LEzpo8r7BHH1vkNIX9njyBYMvxwNA0MMUuT7Fjh4pgyk_63jrkYeKVlmR6SqYs8otkWXgKdcborUkyKP-IqEY__F1KJjsy7v_kDF41KMzzL7Xpebgs_mepb-kDBmTwvxfJboqK-sx5SMmaCigNLoanywxieI5BQH9ssgoEJg1WBC8baxar5Ww5G7up21FlzVi14Go4aGYKghxQpN-hKoYR99SQWDO_H2tNrTy1H8ZGT_huTYjcAPixF7lCtobx0HnglsnhiIATihrUR8W324fF7BprB4ncCNzePa426-tI1SMLpbOi3udK70RieNVDW7PGmk61RtZT6YHKT0bi2Y0
 sourcePath: _posts/2017-09-21-vergelijking-sites.md
-hasPage: true
 starred: false
 datePublishedOriginal: '2017-09-21T09:54:20.853Z'
-url: vergelijking-sites/index.html
-_type: Article
+_type: MediaObject
 
 ---
 Vergelijking sites
 
-<iframe src="https://the-grid.github.io/ed-userhtml/?g=eJytUMFOwzAMvfMVVe5btwFjSE0lxjSJOz_gpd7mNU2K4xb693isQ3DjgJRD7Pf83rOL5JhayWRo0RrBD8lP0MOla7LEzpo8r7BHH1vkNIX9njyBYMvxwNA0MMUuT7Fjh4pgyk_63jrkYeKVlmR6SqYs8otkWXgKdcborUkyKP-IqEY__F1KJjsy7v_kDF41KMzzL7Xpebgs_mepb-kDBmTwvxfJboqK-sx5SMmaCigNLoanywxieI5BQH9ssgoEJg1WBC8baxar5Ww5G7up21FlzVi14Go4aGYKghxQpN-hKoYR99SQWDO_H2tNrTy1H8ZGT_huTYjcAPixF7lCtobx0HnglsnhiIATihrUR8W324fF7BprB4ncCNzePa426-tI1SMLpbOi3udK70RieNVDW7PGmk61RtZT6YHKT0bi2Y0" height="244" style=""></iframe>
+<iframe src="https://the-grid.github.io/ed-userhtml/?g=eJytUk2P0zAQvedXGN_bpAssCzSR2C0rcYLDXvY4tafJtI4d7Em2EeK_M01SBDcOWJbseW_mzYdm-2r39eHp-dtn1XDrqmy7PPtgxyoTE8GKmc-vpUH9yJScFs6rF7LcfFCbt0XRnT9OcINUNyzYBAmQ_ZTgxKNDUUkmUseKxw5LzXjm_AgDzKhWKZpS57nFAV3oMKY1HA7kCBi7GOoIbQtr7PMU-mhQGEz5Ue73HuO4cuKWeH1MupKEk2S1deRPKqIr9VRCahAl0R_5TUpaNREP_5QZnGiQ38wNrS_B1X9q6rd0jR4juL8bUdn2MnrjIKVSW6A0muA_zTGI_iF4BvlFrSwwrFq0BF92pb65uy1uiwVN_Z5sqRerA3OCWmomzxg9Mg97FEW_8I5a4lJvrtFStfhJ-nEBBsKXUvsQWwC3YCFajKWOWPcOYhfJ4MKAYQpSqAvCPz6-uymuwntIZBbi9Zv3d7v7a4gdMDKli6LM5-reMwf_JIMu9T2e6HiSkmVUMqDLos6LKws77fEvRyr84Q" height="244" style=""></iframe>
+
+<iframe src="https://the-grid.github.io/ed-userhtml/?g=eJytUMFOwzAMvfMVVe5btwFjSE0lxjSJOz_gpd7mNU2K4xb693isQ3DjgJRD7Pf83rOL5JhayWRo0RrBD8lP0MOla7LEzpo8r7BHH1vkNIX9njyBYMvxwNA0MMUuT7Fjh4pgyk_63jrkYeKVlmR6SqYs8otkWXgKdcborUkyKP-IqEY__F1KJjsy7v_kDF41KMzzL7Xpebgs_mepb-kDBmTwvxfJboqK-sx5SMmaCigNLoanywxieI5BQH9ssgoEJg1WBC8baxar5Ww5G7up21FlzVi14Go4aGYKghxQpN-hKoYR99SQWDO_H2tNrTy1H8ZGT_huTYjcAPixF7lCtobx0HnglsnhiIATihrUR8W324fF7BprB4ncCNzePa426-tI1SMLpbOi3udK70RieNVDW7PGmk61RtZT6YHKT0bi2Y0" height="500" style=""></iframe>
