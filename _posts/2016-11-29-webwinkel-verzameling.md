@@ -1,18 +1,19 @@
 ---
-datePublished: '2017-09-21T14:40:51.899Z'
+datePublished: '2017-09-21T14:43:00.718Z'
 description: Consumer Electronics
 via: {}
+isBasedOnUrl: >-
+  https://the-grid.github.io/ed-userhtml/?g=eJyljk0OgyAQha9CZtGlgIlVW8cepUFEIQUx02m8fombHqCb97f53mCEJ7cgeOb9JiXbisnMroh9Oao2x_Jhsel1ezFpvyfUSumrrs9msOuaXp2Z8LQPgmBDq2OE5xTN9gJBLiJseckx5gPGIaRVvMn-oOFPKKPnFEEcYWaP0NYdCO_C6suJXoGYMs2OEEo0sWwg5DhIM34Bj69PTg
 inFeed: true
 publisher: {}
-dateModified: '2017-09-21T14:40:51.369Z'
+dateModified: '2017-09-21T14:43:00.034Z'
 sourcePath: _posts/2016-11-29-webwinkel-verzameling.md
 title: ''
-hasPage: true
+hasPage: false
 author: []
 starred: false
 datePublishedOriginal: '2017-09-14T14:41:09.427Z'
-url: hardware/index.html
-_type: Article
+_type: MediaObject
 
 ---
 Consumer Electronics
