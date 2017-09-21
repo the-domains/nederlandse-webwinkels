@@ -20,6 +20,8 @@ analytics:
   twitter: null
   google: null
   facebook: null
+author:
+  name: Jeroen
 logo: >-
   https://the-grid-user-content.s3-us-west-2.amazonaws.com/eafecbc3-2d73-4db7-b2f5-3fd6de6b694e.jpg
 name: Nederlandse-Webwinkels
@@ -37,6 +39,9 @@ navigation:
     type: content
   - name: Vergelijkingsites
     id: 05632dc7-4d7c-4a62-8b09-aef0812a4066
+    type: content
+  - name: Telecom Providers
+    id: f9b152ff-af99-4a49-af9b-de5e5cf4affb
     type: content
 favicon: null
 collections:
@@ -79,5 +84,3 @@ content:
     text: !<tag:yaml.org,2002:js/undefined> ''
 description: De Gouden Webwinkel Gids
 purpose: []
-author:
-  name: Jeroen
