@@ -1,8 +1,8 @@
 ---
 inFeed: false
 description: Vergelijking sites
-dateModified: '2017-09-21T17:09:17.328Z'
-datePublished: '2017-09-21T17:09:18.461Z'
+dateModified: '2017-09-21T17:17:09.556Z'
+datePublished: '2017-09-21T17:17:10.140Z'
 title: ''
 author: []
 publisher: {}
@@ -17,6 +17,10 @@ _type: MediaObject
 ---
 Vergelijking sites
 
-<iframe src="https://the-grid.github.io/ed-userhtml/?g=eJwDAAAAAAE" height="5000" style=""></iframe>
+[Telecom Providers][0]
 
 ---
+
+
+
+[0]: https://thegrid.ai/nederlandse-webwinkels/telecom-providers "Telecom"
