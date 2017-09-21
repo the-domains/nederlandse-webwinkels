@@ -1,8 +1,8 @@
 ---
-inFeed: true
+inFeed: false
 description: Vergelijking sites
-dateModified: '2017-09-21T13:57:08.037Z'
-datePublished: '2017-09-21T13:57:08.562Z'
+dateModified: '2017-09-21T14:36:14.562Z'
+datePublished: '2017-09-21T14:36:15.318Z'
 title: ''
 author: []
 publisher: {}
@@ -12,7 +12,7 @@ hasPage: true
 starred: false
 datePublishedOriginal: '2017-09-21T09:54:20.853Z'
 url: vergelijking-sites/index.html
-_type: Article
+_type: MediaObject
 
 ---
 Vergelijking sites
