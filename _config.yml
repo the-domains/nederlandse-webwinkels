@@ -1,4 +1,3 @@
-layout_spectrum: 0.4254425858445281
 typography_spectrum: 0.3474405089288139
 color:
   brandStrength: 0.4669359463782483
@@ -16,6 +15,7 @@ opengraph:
   image: null
   type: null
   appId: '1836323033060000'
+layout_spectrum: 0.4254425858445281
 analytics:
   twitter: null
   google: null
@@ -34,6 +34,9 @@ navigation:
     type: content
   - name: Software
     id: 9fe5b614-baa9-4ca2-8abc-0727747b2bcb
+    type: content
+  - name: Vergelijking Sites
+    id: 05632dc7-4d7c-4a62-8b09-aef0812a4066
     type: content
 favicon: null
 collections:
