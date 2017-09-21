@@ -38,6 +38,9 @@ navigation:
   - name: Vergelijking Sites
     id: 05632dc7-4d7c-4a62-8b09-aef0812a4066
     type: content
+  - name: Test
+    id: 8d53f273-f812-4c3c-a619-1157ac503efa
+    type: content
 favicon: null
 collections:
   - index:
