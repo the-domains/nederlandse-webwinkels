@@ -35,6 +35,9 @@ navigation:
   - name: Software
     id: 9fe5b614-baa9-4ca2-8abc-0727747b2bcb
     type: content
+  - name: Prijs vergelijkers
+    id: 05632dc7-4d7c-4a62-8b09-aef0812a4066
+    type: content
 favicon: null
 collections:
   - index:
