@@ -1,10 +1,10 @@
 ---
-datePublished: '2017-09-21T13:41:07.093Z'
-description: Consumer Electronix
+datePublished: '2017-09-21T14:01:31.132Z'
+description: Consumer Electronics
 via: {}
 inFeed: true
 publisher: {}
-dateModified: '2017-09-21T13:41:06.082Z'
+dateModified: '2017-09-21T14:01:29.812Z'
 sourcePath: _posts/2016-11-29-webwinkel-verzameling.md
 title: ''
 hasPage: true
@@ -17,11 +17,9 @@ _type: Article
 ---
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/e4f5c7a1-5645-4150-88af-80872fdd68a7.jpg)
 
-Consumer Electronix
+Consumer Electronics
 
 <iframe src="https://the-grid.github.io/ed-userhtml/?g=eJy1V11vmzAUfc-vYEjNW8JX0nw0TtV1nVap6_bQh_UpMnADVoxBxhmppv33XQzpaNe0qQZRhLHB955z7HsvXnz49O3y7v77lRGrhC97i30DNMTGqttcPXBY9kL20_jVM_CX0N2gYKGK54Yztu1sd6aHY2BRrHBMD-FA7zcaqWcv_DR8WPZ6C2rEEtbEjJXK5pZVFMXwIoA8ZBICNRTcNBSVEShirnxOxcZcLlgSGbkMnszx04TK8n3rOqER5JYI_RWrblUMkWShVTCxAS4oTSyKLga1j0xEpkE5evhy9_XGUFuVSkbRsYZKzIpaxaLmhB0De34qQ5Bz-wxBWXRpHKDDmU99OgzSpBsyewddElHBUEkaAl6CDcihAGWdB8QZn47sPk2ys4RMnbE7nekOJY7nTU4d3ZFEN1vSGXvYZRLyvPOVRNMgBVVQglMogFJkZo9Wjruq-K5qwifu54727SOCrrn6QNWAaWSdMNnbb43HIRpBrDh0lkj29o-k4TZpuEfQyBFWhoAEyEymkaRJQhEjL7OJFXAWbKrreUacviJbyfs5GXmO3V-Tux83fRwgpZ0T7wI3Jf4rjnp-X9AEyMeUD24hLMDvSCG0j87-f6HHry50gJG3zfM4zergZCKE3ZDm2a4MU9fzZpNGoN4WxSDIXwlXQwInpkjXKedpgZ4vmw6WRhvSNDB3HAYBCMzcPEuZ0PDqNF6LlMVZqdHYGz1TKAzfpdBTJy1p1DTaokrHVjjXHdleXeEc96Xq1hBqe5xQIQjB8hCoDsNWouyvyRbK4OFIOyDSeOyM39QIq_R7RLraZaAFaEUfqKx1nIRwj2J5jiCGbQRC5-j6M8Gd2W4juK6fvNgMst5bulQ-QDW9tCLRM_AdS_WQyrIqILgy_2VMRFqn0dSbHPc99Y8w93uLrahR4-tQhUyuh7HYF3Ga4LO5g5O55-eeFUj8QGI_QY_ajsPx0WT0QkmuzeTpVgZwtB1DAyfmxJ2a9UmNmDPbNCrYxLRN6zFTWtVhDU-A-kD4B5Vzx10" height="300" style=""></iframe>
-
-<iframe src="https://the-grid.github.io/ed-userhtml/?g=eJyNkDEPwiAQhXd-BbLrUatRK-2izjq4OFJAIVLbUKwa438XSV2cvOUl38u9vDs2WG9X-8Nug7WvbIHYVxSXQaDX1j-sKpA0HX4iHKbi9-HNSK8znEwpbe7LiLUyJ-0Di-hD0Cuk9OsIMY61U8ecaO-bDKBxx5G-gLBGnEHwKnhZEpZtWrYpCKe4N52KlCaJDdZsQgpmqhNunfiNaeurE-rvHBwPyMlsPCd985wsKMFl7aRyOaEECgY8FGdQ1vIRHxL_8wbVPF1G" height="100" style=""></iframe>
 
 [Computer Pirates][0]
 [Hardware.nl][1]
@@ -41,6 +39,10 @@ Consumer Electronix
 
 [Werken bij Coolblue?][13]
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/d4d8e480-281e-41f8-a31e-4427722137e0.png)
+
+<iframe src="https://the-grid.github.io/ed-userhtml/?g=eJyNkDEPwiAQhXd-BbLrUatRK-2izjq4OFJAIVLbUKwa438XSV2cvOUl38u9vDs2WG9X-8Nug7WvbIHYVxSXQaDX1j-sKpA0HX4iHKbi9-HNSK8znEwpbe7LiLUyJ-0Di-hD0Cuk9OsIMY61U8ecaO-bDKBxx5G-gLBGnEHwKnhZEpZtWrYpCKe4N52KlCaJDdZsQgpmqhNunfiNaeurE-rvHBwPyMlsPCd985wsKMFl7aRyOaEECgY8FGdQ1vIRHxL_8wbVPF1G" height="100" style=""></iframe>
+
+
 
 [0]: http://www.computerpirates.com/
 [1]: http://www.hardware.nl/
