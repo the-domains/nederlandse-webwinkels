@@ -31,6 +31,9 @@ cta:
   bucket: null
   domain: null
 navigation:
+  - name: Autoverzekeringen
+    id: 746063a6-4644-49ce-922e-38a57109bb53
+    type: content
   - name: Hardware
     id: 246d6594-bbb1-4c8e-96cc-06a7607040ba
     type: content
@@ -39,9 +42,6 @@ navigation:
     type: content
   - name: Vergelijkingsites
     id: 05632dc7-4d7c-4a62-8b09-aef0812a4066
-    type: content
-  - name: Autoverzekeringen
-    id: 746063a6-4644-49ce-922e-38a57109bb53
     type: content
 favicon: null
 collections:
