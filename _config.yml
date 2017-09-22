@@ -1,4 +1,3 @@
-layout_spectrum: 0.4246464325998458
 typography_spectrum: 0.31164030813197097
 color:
   brandStrength: 0.018945216433984217
@@ -16,6 +15,7 @@ opengraph:
   image: null
   type: null
   appId: '1836323033060000'
+layout_spectrum: 0.4246464325998458
 analytics:
   twitter: null
   google: null
@@ -39,6 +39,9 @@ navigation:
     type: content
   - name: Vergelijkingsites
     id: 05632dc7-4d7c-4a62-8b09-aef0812a4066
+    type: content
+  - name: Autoverzekeringen
+    id: 746063a6-4644-49ce-922e-38a57109bb53
     type: content
 favicon: null
 collections:
