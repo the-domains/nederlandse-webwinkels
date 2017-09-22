@@ -1,8 +1,8 @@
 ---
 inFeed: false
 description: Vergelijking sites
-dateModified: '2017-09-21T21:35:29.311Z'
-datePublished: '2017-09-21T21:35:30.268Z'
+dateModified: '2017-09-22T21:31:59.138Z'
+datePublished: '2017-09-22T21:31:59.640Z'
 title: ''
 author: []
 publisher: {}
@@ -17,11 +17,13 @@ _type: MediaObject
 ---
 Vergelijking sites
 
+Autoverzekeringen
+
 [Telecom Providers][0]
 
 ---
 
-[Smartphone + Telecom Providers ][1]
+[Smartphone + Telecom Providers][1]
 
 ---
 
