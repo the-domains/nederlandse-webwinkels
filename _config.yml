@@ -1,4 +1,3 @@
-layout_spectrum: 0.44771266813067223
 typography_spectrum: 0.056317073467768514
 color:
   brandStrength: 0.44139954749328814
@@ -16,6 +15,7 @@ opengraph:
   image: null
   type: null
   appId: '1836323033060000'
+layout_spectrum: 0.44771266813067223
 analytics:
   twitter: null
   google: null
@@ -39,6 +39,9 @@ navigation:
     type: content
   - name: Vergelijkingsites
     id: 05632dc7-4d7c-4a62-8b09-aef0812a4066
+    type: content
+  - name: Nieuws
+    id: 0d53b42b-b40c-4747-99f8-a968caac3777
     type: content
 favicon: null
 collections:
