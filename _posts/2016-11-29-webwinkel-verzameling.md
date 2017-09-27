@@ -1,16 +1,16 @@
 ---
-datePublished: '2017-09-27T22:01:44.498Z'
+datePublished: '2017-09-27T22:10:58.088Z'
 description: Consumer Electronics
 via: {}
 inFeed: true
 publisher: {}
-dateModified: '2017-09-27T21:59:10.100Z'
+dateModified: '2017-09-27T22:10:56.911Z'
 sourcePath: _posts/2016-11-29-webwinkel-verzameling.md
 title: ''
 hasPage: true
 author: []
 starred: false
-datePublishedOriginal: '2017-09-27T22:01:44.498Z'
+datePublishedOriginal: '2017-09-27T22:10:55.731Z'
 url: hardware/index.html
 _type: Article
 
