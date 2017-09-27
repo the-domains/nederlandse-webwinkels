@@ -1,10 +1,10 @@
 ---
-datePublished: '2017-09-27T09:43:07.480Z'
+datePublished: '2017-09-27T10:03:36.764Z'
 description: Consumer Electronics
 via: {}
 inFeed: true
 publisher: {}
-dateModified: '2017-09-27T09:43:06.618Z'
+dateModified: '2017-09-27T10:03:35.684Z'
 sourcePath: _posts/2016-11-29-webwinkel-verzameling.md
 title: ''
 hasPage: true
@@ -37,8 +37,6 @@ _type: Article
 
 [Werken bij Coolblue?][13]
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/d4d8e480-281e-41f8-a31e-4427722137e0.png)
-
-new Sim only!
 
 <iframe src="https://the-grid.github.io/ed-userhtml/?g=eJyNULFuwjAU3P0Vr96LHVJBCY4X2rkdWBgd22ALh0SOm4Kq_jsPN12YeMtJd3qnuxNPbx-b7e7zHVxqgyTiH6wyCGzCIV2ClcT4EX4I4LXq_PztTXIVzBec9-d1pp31B5cqKDJ1Y8gvukzvounMRRIiFLho9zV1KfUVY33cz9yJ6eD1kWnVolYVaBHKZiiZjlYlP9rM8qIIKC1fqBS-PcAQ9b3N0H1FbR_2gVyjpsv5K53y13TFKTRdNDbWlFMmBVOYG5v8NcBd8kxXqGdfeg" height="150" style=""></iframe>
 
