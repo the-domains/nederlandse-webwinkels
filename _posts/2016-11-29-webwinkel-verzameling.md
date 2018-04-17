@@ -1,10 +1,10 @@
 ---
-datePublished: '2018-04-17T11:47:53.922Z'
+datePublished: '2018-04-17T11:49:38.572Z'
 description: Consumer Electronics
 via: {}
 inFeed: true
 publisher: {}
-dateModified: '2018-04-17T11:47:53.355Z'
+dateModified: '2018-04-17T11:49:37.990Z'
 sourcePath: _posts/2016-11-29-webwinkel-verzameling.md
 title: ''
 hasPage: true
@@ -35,7 +35,7 @@ _type: Article
 
 <button data-role="cta" style="">Wehkamp</button>
 
-[Werken bij Coolblue?][13]
+[" data-role="cta"\>Werken bij Coolblue?][13]
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/d4d8e480-281e-41f8-a31e-4427722137e0.png)
 
 <iframe src="https://the-grid.github.io/ed-userhtml/?g=eJyNULFuwyAU3PmKV_YUnFRy6mCWtnM7ZOmIARsUHFuYJrGq_HteqLt06ltOutM73Z14eH1_2X9-vIFLfZBE_IJVBoEtOKU5WEmMP8E3AbxeXVZnb5KrYL3lfLzsMu2s71yqoMjUnSFXdFneRTOYWRIiFLho25q6lMaKsTG2j-7IdPD6wLTqUasKtAibZtowHa1K_mQzy4sioFQ-USl838EU9V-bafiK2v7bB3KNmpbrLV3y1_SZU2iGaGysKadMCqYwNzb5aYC75JluqltffA" height="150" style=""></iframe>
@@ -55,4 +55,4 @@ _type: Article
 [10]: http://www.ritel.nl/telecom/?tt=668_12_133761_Ritel&r=%2F
 [11]: http://tc.tradetracker.net/?c=20400&m=12&a=133761&r=UsedPC4sale&u=%2F
 [12]: http://www.viadennis.nl/computer/?tt=15804_12_133761_Viadennis&r=%2F
-[13]: http://prf.hn/click/camref:1100l3bs3/creativeref:1011l11074
+[13]: %3Cscript%20type=
